@@ -35,6 +35,6 @@ SVG image icons illustrating the different positions a radical can take in a kan
 
 Radicals Font
 ---- 
-A small (54KB) custom OTF font with full support for all Japanese radicals and their variants (321 characters). EOT, WOFF and WOFF2 versions can be found in the "webfonts" sub-directory.
+A small (54KB), custom OTF font with full support for all Japanese radicals and their variants (321 characters). EOT, TTF, SVG and WOFF versions can be found in the webfonts sub-directory. In addition, further information is provided on the radicals present in the font, their encodings, stroke numbers, meanings, readings and positions. 
 
 [1]:	http://kanjialive.com
