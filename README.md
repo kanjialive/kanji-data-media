@@ -5,7 +5,7 @@ Kanji-alive
 
 The files will primarily be of interest to instructors and studenst who want to re-use them for teaching and learning purposes. Developers should make use of the Kanji alive public web API which will be made available in Summer, 2015. 
 
-[Subscribe to the News page][2] on our website or [follow us on Twitter][3] for the latest updates.
+[Subscribe][2] to the News page on our website or [follow us on Twitter][3] for the latest updates.
 
 Language Data
 ---- 
