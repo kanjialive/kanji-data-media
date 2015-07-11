@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>mongamae_v2</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mongamae" transform="translate(8.000000, 8.000000) scale(1, -1) translate(-8.000000, -8.000000) " fill="#383838">
+            <path d="M0,8 L0,0 L8,0 L16,0 L16,8 L16,16 L8,16 L0,16 L0,8 L0,8 Z M9.86666667,12 C9.86666667,10.16 10.2,9.6 11.5333333,9.6 C12.95,9.6 13.2,9.04 13.2,5.6 L13.2,1.6 L8.2,1.6 L3.2,1.6 L3.2,5.6 C3.2,9.04 3.45,9.6 4.86666667,9.6 C6.2,9.6 6.53333333,10.16 6.53333333,12 C6.53333333,13.84 6.86666667,14.4 8.2,14.4 C9.53333333,14.4 9.86666667,13.84 9.86666667,12 L9.86666667,12 Z M9.86666667,12" id="Shape"></path>
+        </g>
+    </g>
+</svg>
