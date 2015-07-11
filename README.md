@@ -11,4 +11,4 @@ To improve compatability with legacy encodings in existing files _Japanese Radic
 
 Also included are PDF and CSV files which show the radicals present in the font, their encodings, stroke numbers, meanings, readings and positions. A PNG image illustrates the 66 new and revised glyphs added by us. The font can be [viewed in use on the _Kanji alive_ website](http://kanjialive.com/214-traditional-kanji-radicals/). 
 
-_Japanese Radicals_ is freely available for private or commercial use under an [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/) license granted by Adobe. Please ensure that the original license file is always included with the font should you wish to redistribute it.
+Unlike the other media files in this repository which are licensed under a [Creative Commons CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license, _Japanese Radicals_ is freely available for private or commercial use under an [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/) license granted by Adobe. Please ensure that the original license file is always included with the font should you wish to redistribute it.
