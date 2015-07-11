@@ -1,36 +1,39 @@
 Kanji-alive
 ===========
 
-[_Kanji alive_](http://kanjialive.com) is a free resource for learning to read and write kanji.
+[_Kanji alive_][1] is a free resource for learning to read and write kanji.
 
 Language Data
------------
+---- 
 Add text here.
 
 Examples Audio
------------
-Add text here.
+---- 
+Audio files of the pronuciations of 6-12 common compound words for each kanji supported in_Kanji alive,_in the listed order of their Onyomi and Kunyomi pronunciations. The words are spoken by male and female native Japanese speakers. 32Khz, mono, AAC audio files.
 
 Kanji Animations
------------
-Add text here.
+---- 
+Kanji stroke order animations hand-written by native Japanese writers on a Wacom Cinqtiq tablet. The videos were captured as 15fps QuickTime movies and converted into 248x248, H.264 encoded MP4 files.   
 
 Kanji Strokes
------------
-Add text here.
+---- 
+Individual SVG images of each completed stroke in a kanji stroke order animation in ascending strole prder. The SVG files were created with potrace from PNG images exported from the kanji stroke order animations.
 
 Radical Animations
------------
-Add text here.
+---- 
+SVG image files showing the initial, middle and final images of the three-part animations of each radical illustrating its historical derivation. The SVG files are based on a variety of original vector image files.  
 
 Radical Characters
------------
-Add text here.
+---- 
+SVG image files of every radical character used in Kanji alive. The characters are in the Kyokashotai typeface. 
 
 Radical Positions
------------
-Add text here.
+---- 
+SVG image icons illustrating the different positions a radical can take in a kanji character.
 
-Japanese Radicals
------------
-Derived from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans), _Japanese Radicals_ is a small (54KB), custom OTF font with full support all Japanese radicals and their variants (322 characters). EOT, WOFF and WOFF2 versions can be found in the "webfonts" sub-directory.
+Radicals Font
+---- 
+Derived from [Source Han Sans][2],_Japanese Radicals_is a small (54KB), custom OTF font with full support for all Japanese radicals and their variants (321 characters). EOT, WOFF and WOFF2 versions can be found in the "webfonts" sub-directory.
+
+[1]:	http://kanjialive.com
+[2]:	https://github.com/adobe-fonts/source-han-sans
