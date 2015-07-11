@@ -1,6 +1,6 @@
 Japanese Radicals font
 ===========
-Derived from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans), _Japanese Radicals_ is a small (54KB), custom font (_JapaneseRadicals-Regular.otf_) with full support all Japanese radicals and their variants (322 characters). EOT and WOFF versions of the font can be found in the webfonts sub-directory.
+Derived from [Source Han Sans](https://github.com/adobe-fonts/source-han-sans), _Japanese Radicals_ is a small (54KB), custom font (_JapaneseRadicals-Regular.otf_) with full support all Japanese radicals and their variants (321 characters). EOT and WOFF versions of the font can be found in the webfonts sub-directory.
 
 To improve compatability with legacy encodings in existing files _Japanese Radicals_ includes all the glyphs in the Unicode Kangxi Radicals (U+2F00..U+2FDF) and CJK Radicals Supplement (U+2E80..U+2EFF) character ranges as well as a small number of Han ideographs. The remaining 60 radical glyphs not available in Unicode were encoded in the Private Use Area range U+E700..U+E759. 
 
