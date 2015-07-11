@@ -1,3 +1,3 @@
-To be added: 
+To Do List: 
 
-A description of the naming conventions used for the Kanji alive media files and additional details on the CSV data file.
+A description of the naming conventions used for the _Kanji alive_ media files and additional details on the CSV data file.
