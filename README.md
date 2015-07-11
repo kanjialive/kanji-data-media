@@ -5,11 +5,13 @@ Kanji-alive
 
 Language Data
 ---- 
-Add text here.
+A CSV file with all of the publically available language data used in _Kanji alive_. It is necessary to reference this file in order to match individual kanji characters to the naming scheme used for the media files in this repository. For additional details, please see the README file in the language-data directory.
+
+Please note that due to copyright reasons, the mnemonic hints shown in the ‘Detail View’ of the _Kanji alive_ web application as well as the organization of kanji into lessons/chapters by textbook publishers are not included.
 
 Examples Audio
 ---- 
-Audio files of the pronuciations of 6-12 common compound words for each supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations. The words are spoken by male and female native Japanese speakers. 32Khz, mono, AAC audio files.
+Audio files of the pronuciations of 6-12 common compound words for each supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations in _Kanji alive_. The words are spoken by male and female native Japanese speakers. 32Khz, mono, AAC audio files.
 
 Kanji Animations
 ---- 
