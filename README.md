@@ -1,13 +1,17 @@
 Kanji-alive
 ===========
 
-[_Kanji alive_][1] is a free resource for learning to read and write kanji.
+[_Kanji alive_][1] is a free resource for learning to read and write kanji. With few exceptions, this repository includes all of the language data and media files used by the Kanji alive website and web application (http://app.kanjialive.com). 
+
+The files will primarily be of interest to instructors and studenst who want to re-use them for teaching and learning purposes. Developers should make use of the Kanji alive public web API which will be made available in Summer, 2015. 
+
+[Subscribe to the News page][2] on our website or [follow us on Twitter][3] for the latest updates.
 
 Language Data
 ---- 
 A CSV file with all of the publically available language data used in _Kanji alive_. It is necessary to reference this file in order to match individual kanji characters to the naming scheme used for the media files in this repository. For additional details, please see the README file in the language-data directory.
 
-Please note that due to copyright reasons, the mnemonic hints shown in the ‘Detail View’ of the _Kanji alive_ web application as well as the organization of kanji into lessons/chapters by textbook publishers are not included.
+Due to copyright restrictions, the mnemonic hints shown in the ‘Detail View’ of the _Kanji alive_ web application as well as the organization of kanji into lessons/chapters by textbook publishers are not included.
 
 Examples Audio
 ---- 
@@ -38,3 +42,5 @@ Radicals Font
 A small (54KB), custom OTF font with full support for all Japanese radicals and their variants (321 characters). EOT, TTF, SVG and WOFF versions can be found in the webfonts sub-directory. In addition, further information is provided on the radicals present in the font, their encodings, stroke numbers, meanings, readings and positions. 
 
 [1]:	http://kanjialive.com
+[2]:	http://kanjialive.com/feed/
+[3]:	https://twitter.com/kanjialive
