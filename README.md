@@ -17,7 +17,7 @@ Due to copyright restrictions, the mnemonic hints shown in the ‘Detail View’
 
 Examples Audio
 ---- 
-Audio files of the pronuciations of 6-12 common compound words for each supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations in _Kanji alive_. The words are spoken by male and female native Japanese speakers. 32Khz, mono, AAC audio files. 10187 audio files.
+Audio files of the pronuciations of 6-12 common compound words for each supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations in _Kanji alive_. The words are spoken by male and female, native Japanese speakers. 32Khz, mono, AAC encoded audio. 10187 audio files.
 
 Kanji Animations
 ---- 
