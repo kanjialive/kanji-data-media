@@ -25,7 +25,7 @@ Kanji stroke order animations hand-written by native Japanese writers on a Wacom
 
 Kanji Strokes
 ---- 
-Individual SVG images of each completed stroke in a kanji stroke order animation in ascending strole prder. The SVG files were created with potrace from PNG images exported from the kanji stroke order animations. 11929 image files.
+Individual SVG images of each completed stroke in a kanji stroke order animation in ascending stroke order. The SVG files were created with potrace from PNG images exported from the kanji stroke order animations. 11929 image files.
 
 Radical Animations
 ---- 
