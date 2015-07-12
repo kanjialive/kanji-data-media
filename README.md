@@ -3,7 +3,7 @@ Kanji-alive
 
 [_Kanji alive_][1] is a free resource for learning to read and write kanji. With few exceptions, this repository includes all of the language data and media files used by the _Kanji alive_ website and web application ([http://app.kanjialive.com][2]). 
 
-The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. Developers should make use of the _Kanji alive_ public web API which will be made available in Summer, 2015. Please [subscribe][3] to the news page on our website or [follow us on Twitter][4] for updates.
+The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. In addition, developers will soon be able to make use of our public web API and source code for the _Kanji alive_ web application. Please [subscribe][3] to the news page on our website or [follow us on Twitter][4] for updates.
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com" property="cc:attributionName" rel="cc:attributionURL">Kanji alive</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com/credits/" rel="cc:morePermissions">http://kanjialive.com/credits/</a>.
 
