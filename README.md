@@ -11,7 +11,7 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialiv
 
 Language Data
 ---- 
-A CSV file with all of the publically available language data used in _Kanji alive_. You should reference this file to match the 1235 kanji supported by _Kanji alive_ to the naming scheme used for their media files.
+CSV files with all of the publically available language data used in _Kanji alive_. You should reference these file to match the 1235 kanji and 247 japanese radicals supported by _Kanji alive_ to the naming schemes used for their media files.
 
 Due to copyright restrictions, the mnemonic hints shown in the ‘Detail View’ of the _Kanji alive_ web application as well as the organization of kanji into lessons/chapters by textbook publishers are not included.
 
