@@ -29,7 +29,7 @@ Individual SVG images of each completed stroke in a kanji stroke order animation
 
 Radical Animations
 ---- 
-SVG image files showing the initial, middle and final images of the three-part animations of each radical illustrating its historical derivation. The SVG files are based on a variety of original vector image files.  
+SVG image files showing the initial, middle and final images of the three-part animations of each radical illustrating its historical derivation. The SVG files are based on a variety of original vector image files. 730 image files.
 
 Radical Characters
 ---- 
