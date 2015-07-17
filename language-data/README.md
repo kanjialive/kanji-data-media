@@ -12,7 +12,7 @@ Please note also that some of the radical characters in the spreadsheet are not 
 
 ###Japanese Radicals data (_japanese_radicals.csv_ and _.xlsx_)
 
-The data in _japanese_radicals_ is identical to that in _ka_data_ with two exceptions: The _japanese_radicals_ file includes a listing of the Unicode encoding of each radical and an indication of whether these belong to the category of the most important radicals and should be learned. This information is can be viewed in use on the [214 trandtional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page. 
+The data in _japanese_radicals_ is identical to that in _ka_data_ with two exceptions: The _japanese_radicals_ file includes a listing of the Unicode encoding of each radical and an indication of whether these belong to the category of the most important radicals and should be learned. This information is can be viewed in use on the [214 traditional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page. 
 
 As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
 
