@@ -2,7 +2,7 @@
 
 The Kanji alive language data files are offered in UTF-8 encoded, .csv (comma-delimited) and in Microsoft Excel (.xlsx) formats. 
 
-###Kanji alive data (_ka_data.csv_ and .xlsx)
+###Kanji alive data (_ka_data.csv_ and _.xlsx_)
 
 This contains all of the langauge data used by the Kanji alive web application with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kondansha dictionary indices for each kanji seen in the app's 'detail' view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in Kanji alive.
 
@@ -10,7 +10,7 @@ Note that in order to make use in particular of the [kanji animation](https://gi
 
 Please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
 
-###Japanese Radicals data (_japanese_radicals.csv_ and .xlsx)
+###Japanese Radicals data (_japanese_radicals.csv_ and _.xlsx_)
 
 The data in _radicals_data_ is subsumed by and identical to that in _ka_data_ with two exceptions: The _radicals_data_ files include a listing the Unicode encoding of each radical and an indication of whether they belong to the category of the most important radicals and are therefore worth memorizing. This information is re-used on the [214 trandtional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page on the Kanji alive website. 
 
