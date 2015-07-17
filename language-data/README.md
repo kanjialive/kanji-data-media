@@ -14,11 +14,11 @@ Please note also that some of the radical characters in the spreadsheet are not 
 
 The data in _japanese_radicals_ is identical to that in _ka_data_ with two exceptions: The _japanese_radicals_ file includes a listing of the Unicode encoding of each radical and an indication of whether these belong to the category of the most important radicals and should be learned. This information is can be viewed in use on the [214 trandtional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page. 
 
-As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encoding. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
+As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
 
 ###Data Provenance
 
-None of the language data presented is dependant or derived from Jim Breen's [Electronic Dictionary Research and Development Group](http://www.edrdg.org) datasets (i.e. on JMDICT/EDICT, KANJIDIC and KRADFILE/RADKFILE). 
+None of the language data presented is dependant on or derived from Jim Breen's [Electronic Dictionary Research and Development Group](http://www.edrdg.org) datasets (i.e. on JMDICT/EDICT, KANJIDIC and KRADFILE/RADKFILE). 
 
 The language data on kanji was compiled by native Japanese instructors and graduate students at the University of Chicago, largely between 2002 and 2005 (see [Credits](http://kanjialive.com/credits/)) with reference, as needed, to Jack Halpern, "The Kodansha Kanji Learner’s Dictionary", 1st ed. 1999, Kodansha, and Andrew N. Nelson, "The Original Modern Reader’s Japanese-English Character Dictionary: Classic Edition", 2nd. ed. (1974), Tuttle Publishing. 
 
