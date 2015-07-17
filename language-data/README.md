@@ -1,10 +1,10 @@
 ###Formats
 
-The Kanji alive language data files are offered in UTF-8 encoded, .csv (comma-delimited) and in Microsoft Excel (.xlsx) formats. 
+The _Kanji alive_ language data files are offered in UTF-8 encoded, .csv (comma-delimited) and in Microsoft Excel (.xlsx) formats. 
 
 ###Kanji alive data (_ka_data.csv_ and _.xlsx_)
 
-This contains all of the langauge data used by the Kanji alive web application with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kondansha dictionary indices for each kanji seen in the app's 'detail' view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in Kanji alive.
+This contains all of the langauge data used by the _Kanji alive_ web application with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kondansha dictionary indices for each kanji seen in the app's 'detail' view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in Kanji alive.
 
 Note that in order to make use in particular of the [kanji animation](https://github.com/kintopp/Kanji-alive/tree/master/kanji-animations) and [example audio](https://github.com/kintopp/Kanji-alive/tree/master/examples-audio) media, you will need to match the kanji character you are looking for (e.g. ⻌) with the unique, romanized name we assigned to it when we created their filenames, e.g. jutsu-no(beru). In the case of the example audio files, the filenames were additionally marked (in alphabetical order) with the letters 'a' to 'l' to match them to their respective readings. For example, there are 10 audio files starting with "jutsu-no(beru)" and ending with [a-j].aac. These are the audio files for the 10 readings (in the same order) for this kanji.
 
@@ -24,4 +24,4 @@ The language data on kanji was compiled by native Japanese instructors and gradu
 
 The language data on radicals draws on the following references: For the English meanings of each radical, "Kanji & Kana" by Wolfgang Hadamitzky & Mark Spahn, (1981), Tuttle Publishing with additional reference to "Basic Kanji" by Matsuo Soga & Michio Yusa (1989), Taishūkan, and Andrew N. Nelson, "The Original Modern Reader’s Japanese-English Character Dictionary: Classic Edition", 2nd. ed. (1974), Tuttle Publishing. For the Japanese names for the radicals,『講談社カラー版日本語大辞典』（第一版）1989, 講談社.
 
-All of the language data in Kanji alive was carefully reviewed and revised by Harumi Lory in 2014-2015.
+All of the language data in _Kanji alive_ was reviewed and revised by [Harumi Hibino Lory](http://ealc.uchicago.edu/faculty/lecturers) in 2014-2015.
