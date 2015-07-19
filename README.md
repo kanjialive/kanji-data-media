@@ -1,8 +1,6 @@
 Kanji-alive
 ===========
 
-![Kanji alive screenshot](http://kanjialive.com/wp-content/uploads/2013/11/read-full-anim-bordered.png?raw=true)
-
 [_Kanji alive_][1] is a free resource for learning to read and write kanji. With few exceptions, this repository includes all of the language data and media files created by the [_Kanji alive_ team](http://kanjialive.com/credits) for our web application ([http://app.kanjialive.com][2]) and website. 
 
 The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. In addition, developers will soon be able to make use of our public web API and source code for the _Kanji alive_ web application. Please [subscribe][3] to the news page on our website or [follow us on Twitter][4] for updates. Please click on the "Download ZIP" button on the right for the full archive (~302MB).
