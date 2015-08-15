@@ -1,4 +1,8 @@
-Note that in order to make use of the example audio files (i.e. up to twelve example words for each kanji, pronounced by male and female native Japanese speakers) you will need to match the kanji character you are looking for (e.g. 述) with the unique, romanized prefix we assigned to the media files associated with it, e.g. jutsu-no(beru). In the case of the audio files in this directory, the filenames were additionally marked (in alphabetical order) with the suffix 'a' to 'l' to match them to their respective readings. 
+**How to Use:**
+
+Note that in order to make use of the example audio files (i.e. up to twelve example words for each kanji, pronounced by male and female native Japanese speakers) you will need to match the kanji character you are looking for (e.g. 述) with the unique, romanized prefix we assigned to its media files, e.g. jutsu-no(beru). 
+
+In the case of the audio files in this directory, the filenames were additionally marked (in alphabetical order) with the suffix 'a' to 'l' to match them to their respective readings. 
 
 You can match a kanji to its unique, romanized prefix by consulting the _ka_data.xlsx_ (or _ka_data.csv_) spreadsheet in the [language-data](https://github.com/kintopp/Kanji-alive/tree/master/language-data) directory.
 
