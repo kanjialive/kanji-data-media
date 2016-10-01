@@ -3,7 +3,7 @@ Kanji-alive
 
 [_Kanji alive_][1] is a free resource for learning to read and write kanji. With few exceptions, this repository includes all of the language data and media files created by the [_Kanji alive_ team](http://kanjialive.com/credits) for our web application ([http://app.kanjialive.com][2]) and website. 
 
-The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. In addition, developers can make use of our (beta) [public API](https://www.mashape.com/kanjialive/learn-to-read-and-write-japanese-kanji) and will soon have access to the source code for the _Kanji alive_ web application. Please [subscribe][3] to the news page on our website or [follow us on Twitter][4] for updates. Please click on the "Download ZIP" button on the right for the full archive (~302MB).
+The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. In addition, developers can make use of our [public API](https://app.kanjialive.com/search) and will soon have access to the source code for the _Kanji alive_ web application. Please [subscribe][3] to the news page on our website or [follow us on Twitter][4] for updates. Please click on the "Download ZIP" button on the right for the full archive.
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com" property="cc:attributionName" rel="cc:attributionURL">Kanji alive</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com/credits/" rel="cc:morePermissions">http://kanjialive.com/credits/</a>.
 
@@ -17,11 +17,11 @@ Due to copyright restrictions, the mnemonic hints shown in the ‘Detail View’
 
 Examples Audio
 ---- 
-Audio files of the pronuciations of 6-12 common compound words for each of the 1235 supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations in _Kanji alive_. The words are spoken by male and female, native Japanese speakers. 32Khz, mono, AAC encoded audio. 10187 audio files.
+Audio files of the pronuciations of 6-12 common compound words for each of the 1235 supported kanji, in the listed order of their Onyomi and Kunyomi pronunciations in _Kanji alive_. The words are spoken by male and female, native Japanese speakers. The files are available in Opus, AAC, Ogg and MP3 formats (32Khz, mono). 10187 audio files.
 
 Kanji Animations
 ---- 
-Kanji stroke order animations hand-written by native Japanese writers on a Wacom Cinqtiq tablet. The videos were captured as 15fps QuickTime movies and converted into 248x248, H.264 encoded MP4 files. 1235 kanji animations.
+Kanji stroke order animations hand-written by native Japanese writers on a Wacom Cinqtiq tablet. The videos were captured as 15fps QuickTime movies and converted into 248x248, H.264 encoded MP4 files. 1235 kanji animations. The animations can also be downloaded as a .zip archive in the [WEBM](http://media.kanjialive.com/kanji_animations/kanji_webm.zip) format. Timing information for each stroke in the kanji animations is also available.
 
 Kanji Strokes
 ---- 
@@ -43,7 +43,13 @@ Radicals Font
 ---- 
 A small, custom OTF font with full support for all Japanese radicals and variants (321 characters). EOT, TTF, SVG and WOFF versions can be found in the webfonts sub-directory. Details are provided in the directory on the radicals in the font, their encodings, stroke numbers, meanings, readings and positions. 
 
+Kanji Font
+---- 
+A heavily subsetted version (1430 glyphs) of the [mplus-1m-light][5] typeface family used in _Kanji alive_. It consist of the 1235 kanji used in _Kanji alive_ and minimal punctation glyphs. Available as a webfont in EOT, TTF, WOFF and WOFF2.
+
+
 [1]:	http://kanjialive.com
 [2]:	http://app.kanjialive.com
 [3]:	http://kanjialive.com/feed/
 [4]:	https://twitter.com/kanjialive
+[5]:	https://mplus-fonts.osdn.jp/about-en.html

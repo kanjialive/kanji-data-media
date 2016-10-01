@@ -35,4 +35,12 @@ In column A of the same spreadsheet you'll find the unique, romanized prefix for
 - jutsu-no(beru)_06_i.aac
 - jutsu-no(beru)_06_j.aac
 
+**Accessing the audio files:**
+
+The files are available online as .zip archives.
+
+Opus	[https://media.kanjialive.com/examples_audio/audio-opus.zip](https://media.kanjialive.com/examples_audio/audio-opus.zip)
+AAC		[https://media.kanjialive.com/examples_audio/audio-aac.zip](https://media.kanjialive.com/examples_audio/audio-aac.zip)
+Ogg		[https://media.kanjialive.com/examples_audio/audio-ogg.zip](https://media.kanjialive.com/examples_audio/audio-ogg.zip)
+MP3		[https://media.kanjialive.com/examples_audio/audio-mp3.zip](https://media.kanjialive.com/examples_audio/audio-mp3.zip)
 
