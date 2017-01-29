@@ -21,7 +21,7 @@ Audio files of the pronuciations of 6-12 common compound words for each of the 1
 
 Kanji Animations
 ---- 
-Kanji stroke order animations hand-written by native Japanese writers on a Wacom Cinqtiq tablet. The videos were captured as 15fps QuickTime movies and converted into 248x248, H.264 encoded MP4 files. 1235 kanji animations. The animations can also be downloaded as a .zip archive in the [WEBM](http://media.kanjialive.com/kanji_animations/kanji_webm.zip) format. Timing information for each stroke in the kanji animations is also available.
+Kanji stroke order animations hand-written by native Japanese writers on a Wacom Cinqtiq tablet. The videos were captured as 15fps QuickTime movies and converted into 248x248, H.264 encoded MP4 files. 1235 kanji animations. The animations can also be downloaded as a .zip archive in the [.webm](http://media.kanjialive.com/kanji_animations/kanji_webm.zip) format. Timing information for each stroke in the kanji animations is also available.
 
 Kanji Strokes
 ---- 
@@ -53,3 +53,4 @@ A heavily subsetted version (1430 glyphs) of the [mplus-1m-light][5] typeface fa
 [3]:	http://kanjialive.com/feed/
 [4]:	https://twitter.com/kanjialive
 [5]:	https://mplus-fonts.osdn.jp/about-en.html
+```
