@@ -45,7 +45,7 @@ A small, custom OTF font with full support for all Japanese radicals and variant
 
 Kanji Font
 ---- 
-A heavily subsetted version (1430 glyphs) of the [mplus-1m-light][5] typeface family used in _Kanji alive_. It consist of the 1235 kanji used in _Kanji alive_ and minimal punctation glyphs. Available as a webfont in EOT, TTF, WOFF and WOFF2.
+A heavily subsetted version (1430 glyphs) of the [mplus-1m-light][5] typeface family. It consists of the 1235 kanji used in _Kanji alive_ and minimal punctation glyphs. Available as a webfont in EOT, TTF, WOFF and WOFF2.
 
 
 [1]:	http://kanjialive.com
