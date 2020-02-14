@@ -1,8 +1,8 @@
-###Formats
+### Formats
 
 The _Kanji alive_ language data files are offered in UTF-8 encoded, .csv (comma-delimited) and in Microsoft Excel (.xlsx) formats. 
 
-###Kanji alive data (_ka_data.csv_ and _.xlsx_)
+### Kanji alive data (_ka_data.csv_ and _.xlsx_)
 
 This contains all of the language data used by the _Kanji alive_ web application (http://app.kanjialive.com) with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kondansha dictionary indices for each kanji seen in the app's "detail" view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in the "search & results" view.
 
@@ -10,13 +10,13 @@ Note that in order to make use in particular of the [kanji animation](https://gi
 
 Please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
 
-###Japanese Radicals data (_japanese_radicals.csv_ and _.xlsx_)
+### Japanese Radicals data (_japanese_radicals.csv_ and _.xlsx_)
 
 The data in _japanese_radicals_ is identical to that in _ka_data_ with two exceptions: The _japanese_radicals_ file includes a listing of the Unicode encoding of each radical and an indication of whether these belong to the category of the most important radicals and should be learned. This information is can be viewed in use on the [214 traditional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page. 
 
 As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. 
 
-###Data Provenance
+### Data Provenance
 
 None of the language data presented here is dependant on or derived from Jim Breen's [Electronic Dictionary Research and Development Group](http://www.edrdg.org) datasets (i.e. on JMDICT/EDICT, KANJIDIC and KRADFILE/RADKFILE). 
 
