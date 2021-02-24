@@ -1,323 +1,323 @@
-Strokes;Radical;Encoding;Meaning;Reading-J;Reading-R;Position-J;Position-R;Importance
-1;⼀;KANGXI RADICAL ONE Unicode: U+2F00 UTF-8: E2 BC 80;one, horizontal stroke;いち;ichi;;;
-1;⼁;KANGXI RADICAL LINE Unicode: U+2F01 UTF-8: E2 BC 81;vertical stroke;たてぼう;tatebou;;;
-1;⼂;KANGXI RADICAL DOT Unicode: U+2F02 UTF-8: E2 BC 82;dot;てん;ten;;;
-1;⼃;KANGXI RADICAL SLASH Unicode: U+2F03 UTF-8: E2 BC 83;diagonal sweeping stroke;の;no;;;
-1;;PRIVATE USE AREA-E731 Unicode: U+E731 UTF-8: EE 9C B1 Shift-JIS: F9D6;diagonal sweeping stroke;のかんむり;nokanmuri;かんむり;kanmuri;
-1;⼄;KANGXI RADICAL SECOND Unicode: U+2F04 UTF-8: E2 BC 84;the second ;;otsu;;;
-1;⺃;CJK RADICAL SECOND TWO Unicode: U+2E83 UTF-8: E2 BA 83;the second;おつ;otsu;;;
-1;⼅;KANGXI RADICAL HOOK Unicode: U+2F05 UTF-8: E2 BC 85;vertical stroke with a hook;はねぼう;hanebou;;;
-2;⼆;KANGXI RADICAL TWO Unicode: U+2F06 UTF-8: E2 BC 86;two;に;ni;;;
-2;⼇;KANGXI RADICAL LID Unicode: U+2F07 UTF-8: E2 BC 87;lid, top;なべぶた;nabebuta;かんむり;kanmuri;Important
-2;⼈;KANGXI RADICAL MAN Unicode: U+2F08 UTF-8: E2 BC 88;person;ひと;hito;;;
-2;⺅;CJK RADICAL PERSON Unicode: U+2E85 UTF-8: E2 BA 85;person ;にんべん;ninben;へん;hen;Important
-2;𠆢;CJK UNIFIED IDEOGRAPH-201A2 Unicode: U+201A2 (U+D840 U+DDA2) UTF-8: F0 A0 86 A2 X0213: 2-01-22;person ;ひとやね;hitoyane;かんむり;kanmuri;Important
-2;⼉;KANGXI RADICAL LEGS Unicode: U+2F09 UTF-8: E2 BC 89;human legs;ひとあし;hitoashi;あし;ashi;Important
-2;⼊;KANGXI RADICAL ENTER Unicode: U+2F0A UTF-8: E2 BC 8A;to enter;いる;iru;;;
-2;⼋;KANGXI RADICAL EIGHT Unicode: U+2F0B UTF-8: E2 BC 8B;eight;はち;hachi;;;
-2;;PRIVATE USE AREA-E707 Unicode: U+E707 UTF-8: EE 9C 87 Shift-JIS: F9AC;eight;はちがしら;hachigashira;;;
-2;⼌ ;KANGXI RADICAL DOWN BOX Unicode: U+2F0C UTF-8: E2 BC 8C;to enclose;けいがまえ;keigamae;かまえ, けいがまえ;kamae, keigamae;
-2;⼍;KANGXI RADICAL COVER Unicode: U+2F0D UTF-8: E2 BC 8D;cover, crown;わかんむり;wakanmuri;かんむり;kanmuri;Important
-2;⼎;KANGXI RADICAL ICE Unicode: U+2F0E UTF-8: E2 BC 8E;ice;にすい;nisui;へん;hen;
-2;⼏;KANGXI RADICAL TABLE Unicode: U+2F0F UTF-8: E2 BC 8F;table;きにょう;kinyou;つくり;tsukuri;
-2;⺇;CJK RADICAL TABLE Unicode: U+2E87 UTF-8: E2 BA 87;wind;かぜかんむり;kazekanmuri;かんむり;kanmuri;
-2;⼐;KANGXI RADICAL OPEN BOX Unicode: U+2F10 UTF-8: E2 BC 90;container, open box;かんにょう;kannyou;にょう;nyou;
-2;⼑;KANGXI RADICAL KNIFE Unicode: U+2F11 UTF-8: E2 BC 91;knife, sword;かたな;katana;;;
-2;⺉;CJK RADICAL KNIFE TWO Unicode: U+2E89 UTF-8: E2 BA 89;knife, sword;りっとう;rittou;つくり;tsukuri;Important
-2;⼒;KANGXI RADICAL POWER Unicode: U+2F12 UTF-8: E2 BC 92;power;ちから;chikara;;;
-2;⼓;KANGXI RADICAL WRAP Unicode: U+2F13 UTF-8: E2 BC 93;to wrap;つつみがまえ;tsutsumigamae;かまえ, つつみがまえ;kamae, tsutsumigamae;
-2;⼔;KANGXI RADICAL SPOON Unicode: U+2F14 UTF-8: E2 BC 94;spoon;さじ;saji;つくり;tsukuri;
-2;⼕;KANGXI RADICAL RIGHT OPEN BOX Unicode: U+2F15 UTF-8: E2 BC 95;box;はこがまえ;hakogamae;かまえ, はこがまえ;kamae, hakogamae;
-2;⼖;KANGXI RADICAL HIDING ENCLOSURE Unicode: U+2F16 UTF-8: E2 BC 96;to conceal, hide;かくしがまえ;kakushigamae;かまえ, はこがまえ;kamae, hakogamae;
-2;⼗;KANGXI RADICAL TEN Unicode: U+2F17 UTF-8: E2 BC 97;ten;じゅう;juu;;;
-2;⼘;KANGXI RADICAL DIVINATION Unicode: U+2F18 UTF-8: E2 BC 98;oracle;ぼく;boku;;;
-2;⼙;KANGXI RADICAL SEAL Unicode: U+2F19 UTF-8: E2 BC 99;stamp, seal;ふしづくり;fushizukuri;つくり;tsukuri;
-2;⼚;KANGXI RADICAL CLIFF Unicode: U+2F1A UTF-8: E2 BC 9A;cliff;がんだれ;gandare;たれ;tare;Important
-2;⼛;KANGXI RADICAL PRIVATE Unicode: U+2F1B UTF-8: E2 BC 9B;private, Katakana Mu;む;mu;;;
-2;⼜;KANGXI RADICAL AGAIN Unicode: U+2F1C UTF-8: E2 BC 9C;again, right hand;また;mata;;;
-3;⼝;KANGXI RADICAL MOUTH Unicode: U+2F1D UTF-8: E2 BC 9D;mouth;くち;kuchi;;;
-3;;PRIVATE USE AREA-E723 Unicode: U+E723 UTF-8: EE 9C A3 Shift-JIS: F9C8;mouth;くちへん;kuchihen;へん;hen;Important
-3;⼞;KANGXI RADICAL ENCLOSURE Unicode: U+2F1E UTF-8: E2 BC 9E;border, territorial boundaries;くにがまえ;kunigamae;かまえ, くにがまえ;kamae, kunigamae;Important
-3;⼟;KANGXI RADICAL EARTH Unicode: U+2F1F UTF-8: E2 BC 9F;earth;つち;tsuchi;;;
-3;;PRIVATE USE AREA-E744 Unicode: U+E744 UTF-8: EE 9D 84 Shift-JIS: F9E9;earth;つちへん;tsuchihen;へん;hen;Important
-3;⼠;KANGXI RADICAL SCHOLAR Unicode: U+2F20 UTF-8: E2 BC A0;man, scholar, samurai;さむらい;samurai;;;
-3;;PRIVATE USE AREA-E734 Unicode: U+E734 UTF-8: EE 9C B4 Shift-JIS: F9D9;man, scholar, samurai;さむらいかんむり;samuraikanmuri;かんむり;kanmuri;
-3;⼡;KANGXI RADICAL GO Unicode: U+2F21 UTF-8: E2 BC A1;to follow;のまた;nomata;;;
-3;⼢;KANGXI RADICAL GO SLOWLY Unicode: U+2F22 UTF-8: E2 BC A2;to go slowly;なつあし;natsuashi;あし;ashi;
-3;⼣;KANGXI RADICAL EVENING Unicode: U+2F23 UTF-8: E2 BC A3;evening;ゆうべ;yuube;;;
-3;⼤;KANGXI RADICAL BIG Unicode: U+2F24 UTF-8: E2 BC A4;large, big;だい;dai;;;
-3;⼥;KANGXI RADICAL WOMAN Unicode: U+2F25 UTF-8: E2 BC A5;woman;おんな;onna;;;
-3;;PRIVATE USE AREA-E732 Unicode: U+E732 UTF-8: EE 9C B2 Shift-JIS: F9D7;woman;おんなへん;onnahen;へん;hen;Important
-3;⼦;KANGXI RADICAL CHILD Unicode: U+2F26 UTF-8: E2 BC A6;child, son;こ;ko;;;
-3;;PRIVATE USE AREA-E721 Unicode: U+E721 UTF-8: EE 9C A1 Shift-JIS: F9C6;child, son;こへん;kohen;へん;hen;Important
-3;⼧;KANGXI RADICAL ROOF Unicode: U+2F27 UTF-8: E2 BC A7;roof, house;うかんむり;ukanmuri;かんむり;kanmuri;Important
-3;⼨;KANGXI RADICAL INCH Unicode: U+2F28 UTF-8: E2 BC A8;inch, (2.25 cm);すん;sun;;;
-3;;PRIVATE USE AREA-E737 Unicode: U+E737 UTF-8: EE 9C B7 Shift-JIS: F9DC;inch, (2.25 cm);すんづくり;sunzukuri;つくり;tsukuri;
-3;⼩;KANGXI RADICAL SMALL Unicode: U+2F29 UTF-8: E2 BC A9;small;しょう;shou;;;
-3;⺌;CJK RADICAL SMALL ONE Unicode: U+2E8C UTF-8: E2 BA 8C;small;しょうかんむり;shoukanmuri;かんむり;kanmuri;
-3;⺐;CJK RADICAL LAME THREE Unicode: U+2E90 UTF-8: E2 BA 90;lame leg;だいのまげあし;dainomageashi;つくり;tsukuri;
-3;⼫;KANGXI RADICAL CORPSE Unicode: U+2F2B UTF-8: E2 BC AB;corpse, awning;しかばね;shikabane;たれ;tare;
-3;⼬;KANGXI RADICAL SPROUT Unicode: U+2F2C UTF-8: E2 BC AC;sprout;くさのめ;kusanome;;;
-3;⼭;KANGXI RADICAL MOUNTAIN Unicode: U+2F2D UTF-8: E2 BC AD;mountain;やま;yama;;;
-3;;PRIVATE USE AREA-E750 Unicode: U+E750 UTF-8: EE 9D 90 Shift-JIS: F9F5;mountain;やまへん;yamahen;へん;hen;
-3;;PRIVATE USE AREA-E751 Unicode: U+E751 UTF-8: EE 9D 91 Shift-JIS: F9F6;mountain;やまかんむり;yamakanmuri;かんむり;kanmuri;
-3;⼮;KANGXI RADICAL RIVER Unicode: U+2F2E UTF-8: E2 BC AE;winding river;まがりがわ;magarigawa;;;
-3;川;CJK UNIFIED IDEOGRAPH-5DDD Unicode: U+5DDD UTF-8: E5 B7 9D X0213: 1-32-78 Shift-JIS: 90EC;river;さんぼんがわ;sanbongawa;;;
-3;⼯;KANGXI RADICAL WORK Unicode: U+2F2F UTF-8: E2 BC AF;work, carpenter, skill;たくみ;takumi;;;
-3;;PRIVATE USE AREA-E739 Unicode: U+E739 UTF-8: EE 9C B9 Shift-JIS: F9DE;work, carpenter, skill;たくみへん;takumihen;へん;hen;
-3;⼰;KANGXI RADICAL ONESELF Unicode: U+2F30 UTF-8: E2 BC B0;self;おのれ;onore;;;
-3;⼱;KANGXI RADICAL TURBAN Unicode: U+2F31 UTF-8: E2 BC B1;cloth;はば;haba;;;
-3;;PRIVATE USE AREA-E705 Unicode: U+E705 UTF-8: EE 9C 85 Shift-JIS: F9AA;cloth;はばへん;habahen;へん;hen;
-3;⼲;KANGXI RADICAL DRY Unicode: U+2F32 UTF-8: E2 BC B2;to dry, shield;かん;kan;;;
-3;⺓;CJK RADICAL THREAD Unicode: U+2E93 UTF-8: E2 BA 93;young, slight;いとがしら;itogashira;;;
-3;⼴;KANGXI RADICAL DOTTED CLIFF Unicode: U+2F34 UTF-8: E2 BC B4;slanting roof;まだれ;madare;たれ;tare;Important
-3;⼵;KANGXI RADICAL LONG STRIDE Unicode: U+2F35 UTF-8: E2 BC B5;to move, stretch;えんにょう;rennyou;にょう;nyou;
-3;⼶;KANGXI RADICAL TWO HANDS Unicode: U+2F36 UTF-8: E2 BC B6;folded hands;にじゅうあし;nijuuashi;あし;ashi;
-3;⼷;KANGXI RADICAL SHOOT Unicode: U+2F37 UTF-8: E2 BC B7;javelin;いぐるみ;igurumi;;;
-3;⼸;KANGXI RADICAL BOW Unicode: U+2F38 UTF-8: E2 BC B8;bow （in archery）;ゆみ;yumi;;;
-3;;PRIVATE USE AREA-E752 Unicode: U+E752 UTF-8: EE 9D 92 Shift-JIS: F9F7;bow （in archery）;ゆみへん;yumihen;へん;hen;
-3;⼹;KANGXI RADICAL SNOUT Unicode: U+2F39 UTF-8: E2 BC B9;pig’s head;けいがしら;keigashira;;;
-3;⺕;CJK RADICAL SNOUT TWO Unicode: U+2E95 UTF-8: E2 BA 95;pig’s head;けいがしら;keigashira;;;
-3;⺔;CJK RADICAL SNOUT ONE Unicode: U+2E94 UTF-8: E2 BA 94;pig’s head;けいがしら;keigashira;;;
-3;⼺;KANGXI RADICAL BRISTLE Unicode: U+2F3A UTF-8: E2 BC BA;hair-style, light rays;さんづくり;sanzukuri;つくり;tsukuri;
-3;⼻;KANGXI RADICAL STEP Unicode: U+2F3B UTF-8: E2 BC BB;step, stride, street, to go;ぎょうにんべん;gyouninben;へん;hen;Important
-3;⺾;CJK RADICAL GRASS ONE Unicode: U+2EBE UTF-8: E2 BA BE;grass;くさかんむり;kusakanmuri;かんむり;kanmuri;Important
-3;⻌;CJK RADICAL SIMPLIFIED WALK Unicode: U+2ECC UTF-8: E2 BB 8C;road, walk, to advance;しんにょう;shinnyou;にょう;nyou;Important
-3;⻏;CJK RADICAL CITY Unicode: U+2ECF UTF-8: E2 BB 8F;village, country, city;おおざと;oozato;つくり;tsukuri;Important
-3;⻖;CJK RADICAL MOUND TWO Unicode: U+2ED6 UTF-8: E2 BB 96;hill, mound;こざとへん;kozatohen;へん;hen;Important
-3;⺍;CJK RADICAL SMALL TWO Unicode: U+2E8D UTF-8: E2 BA 8D;Katakana Tsu;つ;tsu;かんむり;kanmuri;
-3;⺖;CJK RADICAL HEART ONE Unicode: U+2E96 UTF-8: E2 BA 96;heart, mind, spirit;りっしんべん;risshinben;へん;hen;Important
-3;⺘;CJK RADICAL HAND Unicode: U+2E98 UTF-8: E2 BA 98;hand;てへん;tehen;へん;hen;Important
-3;⺡;CJK RADICAL WATER ONE Unicode: U+2EA1 UTF-8: E2 BA A1;water;さんずい;sanzui;へん;hen;Important
-3;⺨;CJK RADICAL DOG Unicode: U+2EA8 UTF-8: E2 BA A8;beast;けものへん;kemonohen;へん;hen;Important
-4;⼼;KANGXI RADICAL HEART Unicode: U+2F3C UTF-8: E2 BC BC;heart, mind, spirit;こころ;kokoro;;;
-4;⺗;CJK RADICAL HEART TWO Unicode: U+2E97 UTF-8: E2 BA 97;heart, mind, spirit;したごころ;shitagokoro;あし;ashi;
-4;⼽;KANGXI RADICAL HALBERD Unicode: U+2F3D UTF-8: E2 BC BD;spear, weapon;ほこ;hoko;;;
-4;⼾;KANGXI RADICAL DOOR Unicode: U+2F3E UTF-8: E2 BC BE;door;と;to;;;
-4;;PRIVATE USE AREA-E742 Unicode: U+E742 UTF-8: EE 9D 82 Shift-JIS: F9E7;door;とだれ;todare;たれ;tare;
-4;⼿;KANGXI RADICAL HAND Unicode: U+2F3F UTF-8: E2 BC BF;hand;て;te;;;
-4;⽀;KANGXI RADICAL BRANCH Unicode: U+2F40 UTF-8: E2 BD 80;branch;しにょう;shinyou;;;
-4;⽁;KANGXI RADICAL RAP Unicode: U+2F41 UTF-8: E2 BD 81;activity, to strike, hit;ぼくづくり;bokuzukuri;つくり;tsukuri;
-4;⺙;CJK RADICAL RAP Unicode: U+2E99 UTF-8: E2 BA 99;activity, to strike, hit;ぼくづくり;bokuzukuri;つくり;tsukuri;Important
-4;⽂;KANGXI RADICAL SCRIPT Unicode: U+2F42 UTF-8: E2 BD 82;literature, letters;ぶん;bun;;;
-4;⽃;KANGXI RADICAL DIPPER Unicode: U+2F43 UTF-8: E2 BD 83;big dipper, ladle, 18 liters;ますづくり;masuzukuri;つくり;tsukuri;
-4;⽄;KANGXI RADICAL AXE Unicode: U+2F44 UTF-8: E2 BD 84;axe;おのづくり;onozukuri;つくり;tsukuri;
-4;⽅;KANGXI RADICAL SQUARE Unicode: U+2F45 UTF-8: E2 BD 85;direction, flag;ほう;hou;;;
-4;;PRIVATE USE AREA-E712 Unicode: U+E712 UTF-8: EE 9C 92 Shift-JIS: F9B7;direction, flag;ほうへん;houhen;へん;hen;
-4;⽆;KANGXI RADICAL NOT Unicode: U+2F46 UTF-8: E2 BD 86;not;むにょう;munyou;;;
-4;⽇;KANGXI RADICAL SUN Unicode: U+2F47 UTF-8: E2 BD 87;sun, day, time;ひ;hi;;;
-4;;PRIVATE USE AREA-E708 Unicode: U+E708 UTF-8: EE 9C 88 Shift-JIS: F9AD;sun, day, time;ひへん;hihen;へん;hen;Important
-4;⽈;KANGXI RADICAL SAY Unicode: U+2F48 UTF-8: E2 BD 88;to say;ひらび;hirabi;;;
-4;⽉;KANGXI RADICAL MOON Unicode: U+2F49 UTF-8: E2 BD 89;moon, month, period;つき;tsuki;;;
-4;⺝;CJK RADICAL MOON Unicode: U+2E9D UTF-8: E2 BA 9D;moon, month, period;つきへん;tsukihen;へん;hen;
-4;;PRIVATE USE AREA-E758 Unicode: U+E758 UTF-8: EE 9D 98 Shift-JIS: FA40;meat, flesh;にくづき;nikuzuki;;;Important
-4;⽊;KANGXI RADICAL TREE Unicode: U+2F4A UTF-8: E2 BD 8A;tree, wood;き;ki;;;
-4;;PRIVATE USE AREA-E720 Unicode: U+E720 UTF-8: EE 9C A0 Shift-JIS: F9C5;tree, wood;きへん;kihen;へん;hen;Important
-4;⽋;KANGXI RADICAL LACK Unicode: U+2F4B UTF-8: E2 BD 8B;to lack, yawn;あくび;akubi;;;
-4;⽌;KANGXI RADICAL STOP Unicode: U+2F4C UTF-8: E2 BD 8C;to stop;とめる;tomeru;;;
-4;⽍;KANGXI RADICAL DEATH Unicode: U+2F4D UTF-8: E2 BD 8D;death & dying, to decompose;がつ;gatsu;;;
-4;;PRIVATE USE AREA-E703 Unicode: U+E703 UTF-8: EE 9C 83 Shift-JIS: F9A8;death & dying, to decompose;がつへん;gatsuhen;へん;hen;
-4;⽎;KANGXI RADICAL WEAPON Unicode: U+2F4E UTF-8: E2 BD 8E;lance shaft, action;るまた;rumata;つくり;tsukuri;
-4;⽏;KANGXI RADICAL DO NOT Unicode: U+2F4F UTF-8: E2 BD 8F;not, mother;なかれ;nakare;;;
-4;⽐;KANGXI RADICAL COMPARE Unicode: U+2F50 UTF-8: E2 BD 90;to compare;くらべる;kuraberu;;;
-4;⽑;KANGXI RADICAL FUR Unicode: U+2F51 UTF-8: E2 BD 91;hair;け;ke;;;
-4;⽒;KANGXI RADICAL CLAN Unicode: U+2F52 UTF-8: E2 BD 92;family, clan;うじ;uji;;;
-4;⽓;KANGXI RADICAL STEAM Unicode: U+2F53 UTF-8: E2 BD 93;steam, air;きがまえ;kigamae;かまえ, きがまえ;kamae, kigamae;
-4;⽔;KANGXI RADICAL WATER Unicode: U+2F54 UTF-8: E2 BD 94;water;みず;mizu;;;
-4;⽕;KANGXI RADICAL FIRE Unicode: U+2F55 UTF-8: E2 BD 95;fire;ひ;hi;;;
-4;;PRIVATE USE AREA-E709 Unicode: U+E709 UTF-8: EE 9C 89 Shift-JIS: F9AE;fire;ひへん;hihen;へん;hen;Important
-4;⺣;CJK RADICAL FIRE Unicode: U+2EA3 UTF-8: E2 BA A3;fire;れっか;rekka;あし;ashi;Important
-4;⽖;KANGXI RADICAL CLAW Unicode: U+2F56 UTF-8: E2 BD 96;claw, nail;つめ;tsume;;;
-4;⺤;CJK RADICAL PAW ONE Unicode: U+2EA4 UTF-8: E2 BA A4;claw, nail;つめかんむり;tsumekanmuri;かんむり;kanmuri;
-4;爫;Unicode: U+722B UTF-8: E7 88 AB X0213: 2-80-10;claw, nail;つめかんむり;tsumekanmuri;かんむり;kanmuri;
-4;⽗;KANGXI RADICAL FATHER Unicode: U+2F57 UTF-8: E2 BD 97;father;ちち;chichi;;;
-4;⽘;KANGXI RADICAL DOUBLE X Unicode: U+2F58 UTF-8: E2 BD 98;to mix;こう;kou;;;
-4;⽙;KANGXI RADICAL HALF TREE TRUNK Unicode: U+2F59 UTF-8: E2 BD 99;split wood;しょうへん;shouhen;へん;hen;
-4;⽚;KANGXI RADICAL SLICE Unicode: U+2F5A UTF-8: E2 BD 9A;split wood;かた;kata;;;
-4;;PRIVATE USE AREA-E718 Unicode: U+E718 UTF-8: EE 9C 98 Shift-JIS: F9BD;split wood;かたへん;katahen;へん;hen;
-4;;PRIVATE USE AREA-E755 Unicode: U+E755 UTF-8: EE 9D 95 Shift-JIS: F9FA;fang, canine tooth;きば;kiba;;;
-4;⽜;KANGXI RADICAL COW Unicode: U+2F5C UTF-8: E2 BD 9C;cow;うし;ushi;;;
-4;;PRIVATE USE AREA-E748 Unicode: U+E748 UTF-8: EE 9D 88 Shift-JIS: F9ED;cow;うしへん;ushihen;へん;hen;
-4;⽝;KANGXI RADICAL DOG Unicode: U+2F5D UTF-8: E2 BD 9D;dog;いぬ;inu;;;
-4;;PRIVATE USE AREA-E733 Unicode: U+E733 UTF-8: EE 9C B3 Shift-JIS: F9D8;jewelry, jeweled king;おうへん;ouhen;へん;hen;Important
-4;⺭;CJK RADICAL SPIRIT TWO Unicode: U+2EAD UTF-8: E2 BA AD;altar, festival, religious service;しめすへん;shimesuhen;へん;hen;Important
-4;㓁;Unicode: U+34C1 UTF-8: E3 93 81 X0213: 2-84-72;net;あみがしら;amigashira;;;
-4;⺹;CJK RADICAL OLD Unicode: U+2EB9 UTF-8: E2 BA B9;old, old-age;おいかんむり;oikanmuri;かんむり;kanmuri;
-5;⽞;KANGXI RADICAL PROFOUND Unicode: U+2F5E UTF-8: E2 BD 9E;darkness;げん;gen;;;
-5;⽟;KANGXI RADICAL JADE Unicode: U+2F5F UTF-8: E2 BD 9F;jewelry;たま;tama;;;
-5;;PRIVATE USE AREA-E753 Unicode: U+E753 UTF-8: EE 9D 93 Shift-JIS: F9F8;melon;うり;uri;;;
-5;⽡;KANGXI RADICAL TILE Unicode: U+2F61 UTF-8: E2 BD A1;tile;かわら;kawara;;;
-5;⽢;KANGXI RADICAL SWEET Unicode: U+2F62 UTF-8: E2 BD A2;sweet;あまい;amai;;;
-5;⽣;KANGXI RADICAL LIFE Unicode: U+2F63 UTF-8: E2 BD A3;birth, to be born, live;うまれる;umareru;;;
-5;⽤;KANGXI RADICAL USE Unicode: U+2F64 UTF-8: E2 BD A4;to use;もちいる;mochiiru;;;
-5;⽥;KANGXI RADICAL FIELD Unicode: U+2F65 UTF-8: E2 BD A5;rice paddy;た;ta;;;
-5;;PRIVATE USE AREA-E738 Unicode: U+E738 UTF-8: EE 9C B8 Shift-JIS: F9DD;rice paddy;たへん;tahen;へん;hen;
-5;⽦;KANGXI RADICAL BOLT OF CLOTH Unicode: U+2F66 UTF-8: E2 BD A6;bolt of cloth;ひき;hiki;;;
-5;⺪;CJK RADICAL BOLT OF CLOTH Unicode: U+2EAA UTF-8: E2 BA AA;bolt of cloth;ひきへん;hikihen;へん;hen;
-5;⽧;KANGXI RADICAL SICKNESS Unicode: U+2F67 UTF-8: E2 BD A7;sickness;やまいだれ;yamaidare;たれ;tare;Important
-5;⽨;KANGXI RADICAL DOTTED TENT Unicode: U+2F68 UTF-8: E2 BD A8;outspread legs, departure;はつがしら;hatsugashira;かんむり;kanmuri;
-5;⽩;KANGXI RADICAL WHITE Unicode: U+2F69 UTF-8: E2 BD A9;white;しろ;shiro;;;
-5;;PRIVATE USE AREA-E706 Unicode: U+E706 UTF-8: EE 9C 86 Shift-JIS: F9AB;white;はくへん;hakuhen;へん;hen;
-5;⽪;KANGXI RADICAL SKIN Unicode: U+2F6A UTF-8: E2 BD AA;skin, hide;けがわ;kegawa;;;
-5;⽫;KANGXI RADICAL DISH Unicode: U+2F6B UTF-8: E2 BD AB;plate, bowl;さら;sara;;;
-5;⽬;KANGXI RADICAL EYE Unicode: U+2F6C UTF-8: E2 BD AC;eye;め;me;;;
-5;;PRIVATE USE AREA-E726 Unicode: U+E726 UTF-8: EE 9C A6 Shift-JIS: F9CB;eye;めへん;mehen;へん;hen;Important
-5;;PRIVATE USE AREA-E759 Unicode: U+E759 UTF-8: EE 9D 99 Shift-JIS: FA41;eye;よこめ;yokome;かんむり;kanmuri;
-5;⽭;KANGXI RADICAL SPEAR Unicode: U+2F6D UTF-8: E2 BD AD;halberd;ほこ;hoko;;;
-5;;PRIVATE USE AREA-E710 Unicode: U+E710 UTF-8: EE 9C 90 Shift-JIS: F9B5;halberd;ほこへん;hokohen;へん;hen;
-5;⽮;KANGXI RADICAL ARROW Unicode: U+2F6E UTF-8: E2 BD AE;arrow;や;ya;;;
-5;;PRIVATE USE AREA-E749 Unicode: U+E749 UTF-8: EE 9D 89 Shift-JIS: F9EE;arrow;やへん;yahen;へん;hen;
-5;⽯;KANGXI RADICAL STONE Unicode: U+2F6F UTF-8: E2 BD AF;stone;いし;ishi;;;
-5;;PRIVATE USE AREA-E713 Unicode: U+E713 UTF-8: EE 9C 93 Shift-JIS: F9B8;stone;いしへん;ishihen;へん;hen;
-5;⽰;KANGXI RADICAL SPIRIT Unicode: U+2F70 UTF-8: E2 BD B0;altar, festival, religious service;しめす;shimesu;;;
-5;⽱;KANGXI RADICAL TRACK Unicode: U+2F71 UTF-8: E2 BD B1;footprint;じゅうのあし;juunoashi;;;
-5;⽲;KANGXI RADICAL GRAIN Unicode: U+2F72 UTF-8: E2 BD B2;grain;のぎへん;nogihen;へん;hen;Important
-5;⽳;KANGXI RADICAL CAVE Unicode: U+2F73 UTF-8: E2 BD B3;hole, cave;あな;ana;;;
-5;;PRIVATE USE AREA-E700 Unicode: U+E700 UTF-8: EE 9C 80 Shift-JIS: F9A5;hole, cave;あなかんむり;anakanmuri;かんむり;kanmuri;Important
-5;⽴;KANGXI RADICAL STAND Unicode: U+2F74 UTF-8: E2 BD B4;to stand;たつ;tatsu;;;
-5;;PRIVATE USE AREA-E741 Unicode: U+E741 UTF-8: EE 9D 81 Shift-JIS: F9E6;to stand;たつへん;tatsuhen;へん;hen;
-5;;PRIVATE USE AREA-E766 Unicode: U+E766 UTF-8: EE 9D A6 Shift-JIS: FA4E;fang, canine tooth;きば;kiba;;;
-5;;PRIVATE USE AREA-E719 Unicode: U+E719 UTF-8: EE 9C 99 Shift-JIS: F9BE;fang, canine tooth;きばへん;kibahen;へん;hen;
-5;氺;CJK RADICAL WATER TWO Unicode: U+2EA2 UTF-8: E2 BA A2;water;したみず;shitamizu;;;
-5;⺫;CJK RADICAL EYE Unicode: U+2EAB UTF-8: E2 BA AB;net;あみがしら;amigashira;かんむり;kanmuri;
-5;𦉰 ;Unicode: U+26270 __U+D858 U+DE70__ UTF-8: F0 A6 89 B0 X0213: 2-84-73;net;あみがしら;amigashira;;;
-5;⻂;CJK RADICAL CLOTHES Unicode: U+2EC2 UTF-8: E2 BB 82;clothing;ころもへん;koromohen;へん;hen;Important
-5;⺛;CJK RADICAL CHOKE Unicode: U+2E9B UTF-8: E2 BA 9B;not;むにょう;munyou;;;
-6;⽵;KANGXI RADICAL BAMBOO Unicode: U+2F75 UTF-8: E2 BD B5;bamboo;たけ;take;;;
-6;⺮;CJK RADICAL BAMBOO Unicode: U+2EAE UTF-8: E2 BA AE;bamboo;たけかんむり;takekanmuri;かんむり;kanmuri;Important
-6;⽶;KANGXI RADICAL RICE Unicode: U+2F76 UTF-8: E2 BD B6;rice;こめ;kome;;;
-6;;PRIVATE USE AREA-E722 Unicode: U+E722 UTF-8: EE 9C A2 Shift-JIS: F9C7;rice;こめへん;komehen;へん;hen;Important
-6;⽷;KANGXI RADICAL SILK Unicode: U+2F77 UTF-8: E2 BD B7;thread;いと;ito;;;
-6;;PRIVATE USE AREA-E715 Unicode: U+E715 UTF-8: EE 9C 95 Shift-JIS: F9BA;thread;いとへん;itohen;へん;hen;Important
-6;⽸;KANGXI RADICAL JAR Unicode: U+2F78 UTF-8: E2 BD B8;earthen jar;みずがめ;mizugame;;;
-6;⽹;KANGXI RADICAL NET Unicode: U+2F79 UTF-8: E2 BD B9;net;あみめ;amime;;;
-6;⽺;KANGXI RADICAL SHEEP Unicode: U+2F7A UTF-8: E2 BD BA;sheep;ひつじ;hitsuji;;;
-6;⺷;CJK RADICAL RAM Unicode: U+2EB7 UTF-8: E2 BA B7;sheep;ひつじ;hitsuji;;;
-6;羽;CJK COMPATIBILITY IDEOGRAPH-FA1E Unicode: U+FA1E UTF-8: EF A8 9E X0213: 1-17-09;feather, wing;はね;hane;;;
-6;⽻;KANGXI RADICAL FEATHER Unicode: U+2F7B UTF-8: E2 BD BB;feather, wing;はね;hane;;;
-6;⽼;KANGXI RADICAL OLD Unicode: U+2F7C UTF-8: E2 BD BC;old, old-age;おいかんむり;oikanmuri;;;
-6;⽽;KANGXI RADICAL AND Unicode: U+2F7D UTF-8: E2 BD BD;and also;しこうして;shikoushite;;;
-6;⽾;KANGXI RADICAL PLOW Unicode: U+2F7E UTF-8: E2 BD BE;plow;らいすき;raisuki;へん;hen;
-6;⽿;KANGXI RADICAL EAR Unicode: U+2F7F UTF-8: E2 BD BF;ear;みみ;mimi;;;
-6;;PRIVATE USE AREA-E728 Unicode: U+E728 UTF-8: EE 9C A8 Shift-JIS: F9CD;ear;みみへん;mimihen;へん;hen;
-6;⾀;KANGXI RADICAL BRUSH Unicode: U+2F80 UTF-8: E2 BE 80;writing brush;ふでづくり;fudezukuri;;;
-6;⾁;KANGXI RADICAL MEAT Unicode: U+2F81 UTF-8: E2 BE 81;flesh, meat;にく;niku;;;
-6;⾂;KANGXI RADICAL MINISTER Unicode: U+2F82 UTF-8: E2 BE 82;retainer, minister;しん;shin;;;
-6;⾃;KANGXI RADICAL SELF Unicode: U+2F83 UTF-8: E2 BE 83;self;みずから;mizukara;;;
-6;⾄;KANGXI RADICAL ARRIVE Unicode: U+2F84 UTF-8: E2 BE 84;to arrive, reach;いたる;itaru;;;
-6;;PRIVATE USE AREA-E714 Unicode: U+E714 UTF-8: EE 9C 94 Shift-JIS: F9B9;to arrive, reach;いたるへん;;へん;hen;
-6;⾅;KANGXI RADICAL MORTAR Unicode: U+2F85 UTF-8: E2 BE 85;mortar, quern;うす;usu;;;
-6;⾆;KANGXI RADICAL TONGUE Unicode: U+2F86 UTF-8: E2 BE 86;tongue;した;shita;;;
-6;⾇;KANGXI RADICAL OPPOSE Unicode: U+2F87 UTF-8: E2 BE 87;contrary, to err;まいあし;maiashi;;;
-6;⾈;KANGXI RADICAL BOAT Unicode: U+2F88 UTF-8: E2 BE 88;ship, boat;ふね;fune;;;
-6;;PRIVATE USE AREA-E702 Unicode: U+E702 UTF-8: EE 9C 82 Shift-JIS: F9A7;ship, boat;ふねへん;funehen;へん;hen;
-6;⾉;KANGXI RADICAL STOPPING Unicode: U+2F89 UTF-8: E2 BE 89;boundary;こん;kon;;;
-6;⾊;KANGXI RADICAL COLOR Unicode: U+2F8A UTF-8: E2 BE 8A;color;いろ;iro;;;
-6;⾋;KANGXI RADICAL GRASS Unicode: U+2F8B UTF-8: E2 BE 8B;grass, plant;くさ;kusa;;;
-6;⾌;KANGXI RADICAL TIGER Unicode: U+2F8C UTF-8: E2 BE 8C;tiger;とらがしら;toragashira;かんむり;kanmuri;
-6;⾍;KANGXI RADICAL INSECT Unicode: U+2F8D UTF-8: E2 BE 8D;worm, insect, bug;むし;mushi;;;
-6;;PRIVATE USE AREA-E729 Unicode: U+E729 UTF-8: EE 9C A9 Shift-JIS: F9CE;worm, insect, bug;むしへん;mushihen;へん;hen;Important
-6;⾎;KANGXI RADICAL BLOOD Unicode: U+2F8E UTF-8: E2 BE 8E;blood;ち;chi;;;
-6;⾏;KANGXI RADICAL WALK ENCLOSURE Unicode: U+2F8F UTF-8: E2 BE 8F;to go;ぎょうがまえ;gyougamae;かまえ, ぎょうがまえ;kamae, gyougamae;Important
-6;⾐;KANGXI RADICAL CLOTHES Unicode: U+2F90 UTF-8: E2 BE 90;clothing;ころも;koromo;;;
-6;⾑;KANGXI RADICAL WEST Unicode: U+2F91 UTF-8: E2 BE 91;cover, west;にし;nishi;;;
-6;⻃;CJK RADICAL WEST ONE Unicode: U+2EC3 UTF-8: E2 BB 83;cover, west;にし;nishi;;;
-6;⽠;KANGXI RADICAL MELON Unicode: U+2F60 UTF-8: E2 BD A0;melon;うり;uri;;;
-7;⾒;KANGXI RADICAL SEE Unicode: U+2F92 UTF-8: E2 BE 92;to see;みる;miru;;;
-7;⾓;KANGXI RADICAL HORN Unicode: U+2F93 UTF-8: E2 BE 93;horn, corner;つの;tsuno;;;
-7;;PRIVATE USE AREA-E745 Unicode: U+E745 UTF-8: EE 9D 85 Shift-JIS: F9EA;horn, corner;つのへん;tsunohen;へん;hen;
-7;⾔;KANGXI RADICAL SPEECH Unicode: U+2F94 UTF-8: E2 BE 94;words, to speak, say;げん;gen;;;
-7;;PRIVATE USE AREA-E704 Unicode: U+E704 UTF-8: EE 9C 84 Shift-JIS: F9A9;words, to speak, say;ごんべん;gonben;へん;hen;Important
-7;⾕;KANGXI RADICAL VALLEY Unicode: U+2F95 UTF-8: E2 BE 95;valley;たに;tani;;;
-7;;PRIVATE USE AREA-E740 Unicode: U+E740 UTF-8: EE 9D 80 Shift-JIS: F9E5;valley;たにへん;tanihen;へん;hen;
-7;⾖;KANGXI RADICAL BEAN Unicode: U+2F96 UTF-8: E2 BE 96;bean;まめ;mame;;;
-7;;PRIVATE USE AREA-E725 Unicode: U+E725 UTF-8: EE 9C A5 Shift-JIS: F9CA;bean;まめへん;mamehen;へん;hen;
-7;⾗;KANGXI RADICAL PIG Unicode: U+2F97 UTF-8: E2 BE 97;pig;いのこ;inoko;;;
-7;⾘;KANGXI RADICAL BADGER Unicode: U+2F98 UTF-8: E2 BE 98;badger;むじなへん;mujinahen;へん;hen;
-7;⾙;KANGXI RADICAL SHELL Unicode: U+2F99 UTF-8: E2 BE 99;shell, property, wealth;かい;kai;;;
-7;;PRIVATE USE AREA-E716 Unicode: U+E716 UTF-8: EE 9C 96 Shift-JIS: F9BB;shell, property, wealth;かいへん;kaihen;へん;hen;Important
-7;⾚;KANGXI RADICAL RED Unicode: U+2F9A UTF-8: E2 BE 9A;red;あか;aka;;;
-7;⾛;KANGXI RADICAL RUN Unicode: U+2F9B UTF-8: E2 BE 9B;to run;はしる;hashiru;;;
-7;;PRIVATE USE AREA-E736 Unicode: U+E736 UTF-8: EE 9C B6 Shift-JIS: F9DB;to run;そうにょう;sounyou;にょう;nyou;Important
-7;⾜;KANGXI RADICAL FOOT Unicode: U+2F9C UTF-8: E2 BE 9C;foot, leg;あし;ashi;;;
-7;⻊;CJK RADICAL FOOT Unicode: U+2ECA UTF-8: E2 BB 8A;foot, leg;あしへん;ashihen;へん;hen;Important
-7;⾝;KANGXI RADICAL BODY Unicode: U+2F9D UTF-8: E2 BE 9D;body;み;mi;;;
-7;;PRIVATE USE AREA-E727 Unicode: U+E727 UTF-8: EE 9C A7 Shift-JIS: F9CC;body;みへん;mihen;へん;hen;
-7;⾞;KANGXI RADICAL CART Unicode: U+2F9E UTF-8: E2 BE 9E;vehicle, wheel, car;くるま;kuruma;;;
-7;;PRIVATE USE AREA-E724 Unicode: U+E724 UTF-8: EE 9C A4 Shift-JIS: F9C9;vehicle, wheel, car;くるまへん;kurumahen;へん;hen;Important
-7;⾟;KANGXI RADICAL BITTER Unicode: U+2F9F UTF-8: E2 BE 9F;bitter;からい;karai;;;
-7;⾠;KANGXI RADICAL MORNING Unicode: U+2FA0 UTF-8: E2 BE A0;Fifth zodiac sign, 7–9 A.M.;しんのたつ;shinnotatsu;;;
-7;⾡;KANGXI RADICAL WALK Unicode: U+2FA1 UTF-8: E2 BE A1;to advance, move ahead;しんにょう;shinnyou;;;
-7;⾢;KANGXI RADICAL CITY Unicode: U+2FA2 UTF-8: E2 BE A2;community;むら;mura;;;
-7;⾣;KANGXI RADICAL WINE Unicode: U+2FA3 UTF-8: E2 BE A3;sake jar, bird;ひよみのとり;hiyominotori;;;
-7;;PRIVATE USE AREA-E743 Unicode: U+E743 UTF-8: EE 9D 83 Shift-JIS: F9E8;sake jar, bird;とりへん;torihen;へん;hen;
-7;⾤;KANGXI RADICAL DISTINGUISH Unicode: U+2FA4 UTF-8: E2 BE A4;to separate;のごめ;nogom;;;
-7;;PRIVATE USE AREA-E730 Unicode: U+E730 UTF-8: EE 9C B0 Shift-JIS: F9D5;to separate;のごめへん;nogomehen;へん;hen;
-7;⾥;KANGXI RADICAL VILLAGE Unicode: U+2FA5 UTF-8: E2 BE A5;village, (3.93 km);さと;sato;;;
-7;;PRIVATE USE AREA-E735 Unicode: U+E735 UTF-8: EE 9C B5 Shift-JIS: F9DA;village, (3.93 km);さとへん;satohen;へん;hen;
-7;⾂;KANGXI RADICAL MINISTER Unicode: U+2F82 UTF-8: E2 BE 82;retainer, minister;しん;shin;;;
-7;;PRIVATE USE AREA-E767 Unicode: U+E767 UTF-8: EE 9D A7 Shift-JIS: FA4F;contrary, to err;まいあし;maiashi;;;
-7;⻨;CJK RADICAL SIMPLIFIED WHEAT Unicode: U+2EE8 UTF-8: E2 BB A8;wheat;むぎ;mugi;;;
-8;⾦;KANGXI RADICAL GOLD Unicode: U+2FA6 UTF-8: E2 BE A6;metal, gold, mineral;かね;kane;;;
-8;;PRIVATE USE AREA-E717 Unicode: U+E717 UTF-8: EE 9C 97 Shift-JIS: F9BC;metal, gold, mineral;かねへん;kanehen;へん;hen;Important
-8;⻑;CJK RADICAL LONG ONE Unicode: U+2ED1 UTF-8: E2 BB 91;long;ながい;nagai;;;
-8;⾨;KANGXI RADICAL GATE Unicode: U+2FA8 UTF-8: E2 BE A8;gate, door;もんがまえ;mongamae;かまえ, もんがまえ;kamae, mongamae;Important
-8;⾩;KANGXI RADICAL MOUND Unicode: U+2FA9 UTF-8: E2 BE A9;hill;こざと;kozato;;;
-8;⾪;KANGXI RADICAL SLAVE Unicode: U+2FAA UTF-8: E2 BE AA;to capture;れいづくり;reizukuri;つくり;tsukuri;
-8;⾫;KANGXI RADICAL SHORT TAILED BIRD Unicode: U+2FAB UTF-8: E2 BE AB;small bird;ふるとり;furutori;;;
-8;⾬;KANGXI RADICAL RAIN Unicode: U+2FAC UTF-8: E2 BE AC;rain;あめ;ame;;;
-8;⻗;CJK RADICAL RAIN Unicode: U+2ED7 UTF-8: E2 BB 97;rain;あめかんむり;amekanmuri;かんむり;kanmuri;Important
-8;⾭;KANGXI RADICAL BLUE Unicode: U+2FAD UTF-8: E2 BE AD;blue, green;あお;ao;;;
-8;⻘;CJK RADICAL BLUE Unicode: U+2ED8 UTF-8: E2 BB 98;blue, green;あお;ao;;;
-8;⾮;KANGXI RADICAL WRONG Unicode: U+2FAE UTF-8: E2 BE AE;wrong, non-;あらず;arazu;;;
-8;⻟;CJK RADICAL EAT THREE Unicode: U+2EDF UTF-8: E2 BB 9F;food, to eat;しょくへん;shokuhen;へん;hen;
-8;⻫;CJK RADICAL J-SIMPLIFIED EVEN Unicode: U+2EEB UTF-8: E2 BB AB;alike;せい;sei;;;
-9;⾯;KANGXI RADICAL FACE Unicode: U+2FAF UTF-8: E2 BE AF;face, surface;めん;men;;;
-9;⾰;KANGXI RADICAL LEATHER Unicode: U+2FB0 UTF-8: E2 BE B0;leather;つくりがわ;tsukurigawa;;;
-9;;PRIVATE USE AREA-E754 Unicode: U+E754 UTF-8: EE 9D 94 Shift-JIS: F9F9;leather;なめしがわ;nameshigawa;;;
-9;⾲;KANGXI RADICAL LEEK Unicode: U+2FB2 UTF-8: E2 BE B2;leek;にら;nira;;;
-9;⾳;KANGXI RADICAL SOUND Unicode: U+2FB3 UTF-8: E2 BE B3;sound, noise;おと;oto;;;
-9;⾴;KANGXI RADICAL LEAF Unicode: U+2FB4 UTF-8: E2 BE B4;head, page;おおがい;oogai;つくり;tsukuri;Important
-9;⾵;KANGXI RADICAL WIND Unicode: U+2FB5 UTF-8: E2 BE B5;wind;かぜ;kaze;;;
-9;⾶;KANGXI RADICAL FLY Unicode: U+2FB6 UTF-8: E2 BE B6;to fly;とぶ;tobu;;;
-9;⾷;KANGXI RADICAL EAT Unicode: U+2FB7 UTF-8: E2 BE B7;food, to eat;しょく;shoku;;;
-9;⾸;KANGXI RADICAL HEAD Unicode: U+2FB8 UTF-8: E2 BE B8;head;くび;kubi;;;
-9;⾹;KANGXI RADICAL FRAGRANT Unicode: U+2FB9 UTF-8: E2 BE B9;scent;かおり;kaori;;;
-10;⾺;KANGXI RADICAL HORSE Unicode: U+2FBA UTF-8: E2 BE BA;horse;うま;uma;;;
-10;;PRIVATE USE AREA-E746 Unicode: U+E746 UTF-8: EE 9D 86 Shift-JIS: F9EB;horse;うまへん;umahen;へん;hen;
-10;⾻;KANGXI RADICAL BONE Unicode: U+2FBB UTF-8: E2 BE BB;bone;ほね;hone;;;
-10;;PRIVATE USE AREA-E711 Unicode: U+E711 UTF-8: EE 9C 91 Shift-JIS: F9B6;bone;ほねへん;honehen;へん;hen;
-10;⾼;KANGXI RADICAL TALL Unicode: U+2FBC UTF-8: E2 BE BC;high;たかい;takai;;;
-10;⾽;KANGXI RADICAL HAIR Unicode: U+2FBD UTF-8: E2 BE BD;long hair;かみかんむり;kamikanmuri;かんむり;kanmuri;
-10;⾾;KANGXI RADICAL FIGHT Unicode: U+2FBE UTF-8: E2 BE BE;fighting;たたかいがまえ;tatakaigamae;かまえ;kamae, mongamae;
-10;⾿;KANGXI RADICAL SACRIFICIAL WINE Unicode: U+2FBF UTF-8: E2 BE BF;herbs;においざけ;nioizake;;;
-10;⿀;KANGXI RADICAL CAULDRON Unicode: U+2FC0 UTF-8: E2 BF 80;tripod;れき;reki;;;
-10;⿁;KANGXI RADICAL GHOST Unicode: U+2FC1 UTF-8: E2 BF 81;demon;おに;oni;;;
-10;⾱;KANGXI RADICAL TANNED LEATHER Unicode: U+2FB1 UTF-8: E2 BE B1;leather;なめしがわ;nameshigawa;;;
-11;⿂;KANGXI RADICAL FISH Unicode: U+2FC2 UTF-8: E2 BF 82;fish;うお;uo;;;
-11;;PRIVATE USE AREA-E747 Unicode: U+E747 UTF-8: EE 9D 87 Shift-JIS: F9EC;fish;うおへん;uohen;へん;hen;Important
-11;⿃;KANGXI RADICAL BIRD Unicode: U+2FC3 UTF-8: E2 BF 83;bird;とり;tori;;;
-11;⿄;KANGXI RADICAL SALT Unicode: U+2FC4 UTF-8: E2 BF 84;salt;しお;shio;;;
-11;⿅;KANGXI RADICAL DEER Unicode: U+2FC5 UTF-8: E2 BF 85;deer;しか;shika;;;
-11;⿆;KANGXI RADICAL WHEAT Unicode: U+2FC6 UTF-8: E2 BF 86;wheat;むぎ;mugi;;;
-11;⿇;KANGXI RADICAL HEMP Unicode: U+2FC7 UTF-8: E2 BF 87;hemp;あさ;asa;;;
-11;;PRIVATE USE AREA-E701 Unicode: U+E701 UTF-8: EE 9C 81 Shift-JIS: F9A6;hemp;あさかんむり;asakanmuri;かんむり;kanmuri;
-11;⻩;CJK RADICAL SIMPLIFIED YELLOW Unicode: U+2EE9 UTF-8: E2 BB A9;yellow;き;ki;;;
-11;黒;Unicode: U+9ED2 UTF-8: E9 BB 92 X0213: 1-25-85 Shift-JIS: 8D95;black;くろ;kuro;;;
-11;⻲;Unicode: U+4E80 UTF-8: E4 BA 80 X0213: 1-21-21 Shift-JIS: 8B54;turtle;かめ;kame;;;
-12;⿈;KANGXI RADICAL YELLOW Unicode: U+2FC8 UTF-8: E2 BF 88;yellow;き;ki;;;
-12;⿉;KANGXI RADICAL MILLET Unicode: U+2FC9 UTF-8: E2 BF 89;millet;きび;kibi;;;
-12;⿊;KANGXI RADICAL BLACK Unicode: U+2FCA UTF-8: E2 BF 8A;black;くろ;kuro;;;
-12;⿋;KANGXI RADICAL EMBROIDERY Unicode: U+2FCB UTF-8: E2 BF 8B;embroider;ぬいとり;nuitori;;;
-12;⻭;CJK RADICAL J-SIMPLIFIED TOOTH Unicode: U+2EED UTF-8: E2 BB AD;tooth;は;ha;;;
-13;⿌;KANGXI RADICAL FROG Unicode: U+2FCC UTF-8: E2 BF 8C;frog;かえる;kaeru;;;
-13;⿍;KANGXI RADICAL TRIPOD Unicode: U+2FCD UTF-8: E2 BF 8D;tripod;かなえ;kanae;;;
-13;⿎;KANGXI RADICAL DRUM Unicode: U+2FCE UTF-8: E2 BF 8E;drum;つづみ;tuzumi;;;
-13;⿏;KANGXI RADICAL RAT Unicode: U+2FCF UTF-8: E2 BF 8F;rat, mouse;ねずみ;nezumi;;;
-14;⿐;KANGXI RADICAL NOSE Unicode: U+2FD0 UTF-8: E2 BF 90;nose;はな;hana;;;
-14;⿑;KANGXI RADICAL EVEN Unicode: U+2FD1 UTF-8: E2 BF 91;alike;せい;sei;;;
-15;⿒;KANGXI RADICAL TOOTH Unicode: U+2FD2 UTF-8: E2 BF 92;tooth;は;ha;;;
-16;⿓;KANGXI RADICAL DRAGON Unicode: U+2FD3 UTF-8: E2 BF 93;dragon;りゅう;ryuu;;;
-16;⿔;KANGXI RADICAL TURTLE Unicode: U+2FD4 UTF-8: E2 BF 94;turtle;かめ;kame;;;
-17;⿕;KANGXI RADICAL FLUTE Unicode: U+2FD5 UTF-8: E2 BF 95;flute;やく;yaku;;;
-n/a;々;IDEOGRAPHIC ITERATION MARK Unicode: U+3005 UTF-8: E3 80 85 X0213: 1-01-25 Shift-JIS: 8158;n/a;n/a;n/a;;;
+Radical ID#,Stroke#,Radical,Meaning,Reading-J,Reading-R,R-Filename,Anim-Filename,Position-J,Position-R
+1,1,⼀,"one, horizontal stroke",いち,ichi,,,,
+2,1,⼁,vertical stroke,たてぼう,tatebou,,,,
+3,1,⼂,dot,てん,ten,,,,
+4,1,⼃,diagonal sweeping stroke,の,no,,,,
+5,1,,diagonal sweeping stroke,のかんむり,nokanmuri,,,かんむり,kanmuri
+6,1,⼄,the second ,おつ,otsu,otsu-nine,otsu,,
+7,1,⺃,the second,おつ,otsu,,,,
+8,1,⼅,vertical stroke with a hook,はねぼう,hanebou,,,,
+9,2,⼆,two,に,ni,,,,
+10,2,⼇,"lid, top",なべぶた,nabebuta,,,かんむり,kanmuri
+11,2,⼈,person,ひと,hito,,,,
+12,2,⺅,person ,にんべん,ninben,,,へん,hen
+13,2,𠆢,person ,ひとやね,hitoyane,,,かんむり,kanmuri
+14,2,⼉,human legs,ひとあし,hitoashi,,,あし,ashi
+15,2,⼊,to enter,いる,iru,,,,
+16,2,⼋,eight,はち,hachi,,,,
+17,2,,eight,はちがしら,hachigashira,,,,
+18,2,⼌ ,to enclose,けいがまえ,keigamae,,,"かまえ, けいがまえ","kamae, keigamae"
+19,2,⼍,"cover, crown",わかんむり,wakanmuri,,,かんむり,kanmuri
+20,2,⼎,ice,にすい,nisui,,,へん,hen
+21,2,⼏,table,きにょう,kinyou,,,つくり,tsukuri
+22,2,⺇,wind,かぜかんむり,kazekanmuri,,,かんむり,kanmuri
+23,2,⼐,"container, open box",かんにょう,kannyou,,,にょう,nyou
+24,2,⼑,"knife, sword",かたな,katana,,,,
+25,2,⺉,"knife, sword",りっとう,rittou,,,つくり,tsukuri
+26,2,⼒,power,ちから,chikara,,,,
+27,2,⼓,to wrap,つつみがまえ,tsutsumigamae,,,"かまえ, つつみがまえ","kamae, tsutsumigamae"
+28,2,⼔,spoon,さじ,saji,,,つくり,tsukuri
+29,2,⼕,box,はこがまえ,hakogamae,,,"かまえ, はこがまえ","kamae, hakogamae"
+30,2,⼖,"to conceal, hide",かくしがまえ,kakushigamae,,,"かまえ, はこがまえ","kamae, hakogamae"
+31,2,⼗,ten,じゅう,juu,,,,
+32,2,⼘,oracle,ぼく,boku,,,,
+33,2,⼙,"stamp, seal",ふしづくり,fushizukuri,,,つくり,tsukuri
+34,2,⼚,cliff,がんだれ,gandare,,,たれ,tare
+35,2,⼛,"private, Katakana Mu",む,mu,,,,
+36,2,⼜,"again, right hand",また,mata,,,,
+37,3,⼝,mouth,くち,kuchi,,,,
+38,3,,mouth,くちへん,kuchihen,,,へん,hen
+39,3,⼞,"border, territorial boundaries",くにがまえ,kunigamae,,,"かまえ, くにがまえ","kamae, kunigamae"
+40,3,⼟,earth,つち,tsuchi,,,,
+41,3,,earth,つちへん,tsuchihen,,,へん,hen
+42,3,⼠,"man, scholar, samurai",さむらい,samurai,,,,
+43,3,,"man, scholar, samurai",さむらいかんむり,samuraikanmuri,,samurai,かんむり,kanmuri
+44,3,⼡,to follow,のまた,nomata,,,,
+45,3,⼢,to go slowly,なつあし,natsuashi,,,あし,ashi
+46,3,⼣,evening,ゆうべ,yuube,,,,
+47,3,⼤,"large, big",だい,dai,,,,
+48,3,⼥,woman,おんな,onna,,,,
+49,3,,woman,おんなへん,onnahen,,,へん,hen
+50,3,⼦,"child, son",こ,ko,,,,
+51,3,,"child, son",こへん,kohen,,,へん,hen
+52,3,⼧,"roof, house",うかんむり,ukanmuri,,,かんむり,kanmuri
+53,3,⼨,"inch, (2.25 cm)",すん,sun,,,,
+54,3,,"inch, (2.25 cm)",すんづくり,sunzukuri,,sun,つくり,tsukuri
+55,3,⼩,small,しょう,shou,,,,
+56,3,⺌,small,しょうかんむり,shoukanmuri,,,かんむり,kanmuri
+57,3,⺐,lame leg,だいのまげあし,dainomageashi,,,つくり,tsukuri
+58,3,⼫,"corpse, awning",しかばね,shikabane,,,たれ,tare
+59,3,⼬,sprout,くさのめ,kusanome,,,,
+60,3,⼭,mountain,やま,yama,,,,
+61,3,,mountain,やまへん,yamahen,,,へん,hen
+62,3,,mountain,やまかんむり,yamakanmuri,,,かんむり,kanmuri
+63,3,⼮,winding river,まがりがわ,magarigawa,,,,
+64,3,川,river,さんぼんがわ,sanbongawa,,,,
+65,3,⼯,"work, carpenter, skill",たくみ,takumi,,,,
+66,3,,"work, carpenter, skill",たくみへん,takumihen,,,へん,hen
+67,3,⼰,self,おのれ,onore,,,,
+68,3,⼱,cloth,はば,haba,,,,
+69,3,,cloth,はばへん,habahen,,,へん,hen
+70,3,⼲,"to dry, shield",かん,kan,,,,
+71,3,⺓,"young, slight",いとがしら,itogashira,,,,
+72,3,⼴,slanting roof,まだれ,madare,,,たれ,tare
+73,3,⼵,"to move, stretch",えんにょう,ennyou,,,にょう,nyou
+74,3,⼶,folded hands,にじゅうあし,nijuuashi,,,あし,ashi
+75,3,⼷,javelin,いぐるみ,igurumi,,,,
+76,3,⼸,bow （in archery）,ゆみ,yumi,,,,
+77,3,,bow （in archery）,ゆみへん,yumihen,,,へん,hen
+78,3,⼹,pig’s head,けいがしら,keigashira,,,,
+79,3,⺕,pig’s head,けいがしら,keigashira,,,,
+80,3,⺔,pig’s head,けいがしら,keigashira,,,,
+81,3,⼺,"hair-style, light rays",さんづくり,sanzukuri,,,つくり,tsukuri
+82,3,⼻,"step, stride, street, to go",ぎょうにんべん,gyouninben,,,へん,hen
+83,3,⺾,grass,くさかんむり,kusakanmuri,,,かんむり,kanmuri
+84,3,⻌,"road, walk, to advance",しんにょう,shinnyou,,,にょう,nyou
+85,3,⻏,"village, country, city",おおざと,oozato,,,つくり,tsukuri
+86,3,⻖,"hill, mound",こざとへん,kozatohen,,,へん,hen
+87,3,⺍,Katakana Tsu,つ,tsu,,,かんむり,kanmuri
+88,3,⺖,"heart, mind, spirit",りっしんべん,risshinben,,,へん,hen
+89,3,⺘,hand,てへん,tehen,,,へん,hen
+90,3,⺡,water,さんずい,sanzui,,,へん,hen
+91,3,⺨,beast,けものへん,kemonohen,,,へん,hen
+92,4,⼼,"heart, mind, spirit",こころ,kokoro,,,,
+93,4,⺗,"heart, mind, spirit",したごころ,shitagokoro,,,あし,ashi
+94,4,⼽,"spear, weapon",ほこ,hoko,,,,
+95,4,⼾,door,と,to,,,,
+96,4,,door,とだれ,todare,,,たれ,tare
+97,4,⼿,hand,て,te,,,,
+98,4,⽀,branch,しにょう,shinyou,,,,
+99,4,⽁,"activity, to strike, hit",ぼくづくり,bokuzukuri,,,つくり,tsukuri
+100,4,⺙,"activity, to strike, hit",ぼくづくり,bokuzukuri,,,つくり,tsukuri
+101,4,⽂,"literature, letters",ぶん,bun,,,,
+102,4,⽃,"big dipper, ladle, 18 liters",ますづくり,masuzukuri,,,つくり,tsukuri
+103,4,⽄,axe,おのづくり,onozukuri,,,つくり,tsukuri
+104,4,⽅,"direction, flag",ほう,hou,,,,
+105,4,,"direction, flag",ほうへん,houhen,,,へん,hen
+106,4,⽆,not,むにょう,munyou,,,,
+107,4,⽇,"sun, day, time",ひ,hi,,,,
+108,4,,"sun, day, time",ひへん,hihen,,,へん,hen
+109,4,⽈,to say,ひらび,hirabi,,,,
+110,4,⽉,"moon, month, period",つき,tsuki,,,,
+111,4,⺝,"moon, month, period",つきへん,tsukihen,,tsuki,へん,hen
+112,4,,"meat, flesh",にくづき,nikuzuki,,,,
+113,4,⽊,"tree, wood",き,ki,,,,
+114,4,,"tree, wood",きへん,kihen,,,へん,hen
+115,4,⽋,"to lack, yawn",あくび,akubi,,,,
+116,4,⽌,to stop,とめる,tomeru,,,,
+117,4,⽍,"death & dying, to decompose",がつ,gatsu,,,,
+118,4,,"death & dying, to decompose",がつへん,gatsuhen,,,へん,hen
+119,4,⽎,"lance shaft, action",るまた,rumata,,,つくり,tsukuri
+120,4,⽏,"not, mother",なかれ,nakare,,,,
+121,4,⽐,to compare,くらべる,kuraberu,,,,
+122,4,⽑,hair,け,ke,,,,
+123,4,⽒,"family, clan",うじ,uji,,,,
+124,4,⽓,"steam, air",きがまえ,kigamae,,,"かまえ, きがまえ","kamae, kigamae"
+125,4,⽔,water,みず,mizu,,,,
+126,4,⽕,fire,ひ,hi,hi-fire,,,
+127,4,,fire,ひへん,hihen,hihen-fire,,へん,hen
+128,4,⺣,fire,れっか,rekka,,,あし,ashi
+129,4,⽖,"claw, nail",つめ,tsume,,,,
+130,4,⺤,"claw, nail",つめかんむり,tsumekanmuri,,,かんむり,kanmuri
+131,4,爫,"claw, nail",つめかんむり,tsumekanmuri,,,かんむり,kanmuri
+132,4,⽗,father,ちち,chichi,,,,
+133,4,⽘,to mix,こう,kou,,,,
+134,4,⽙,split wood,しょうへん,shouhen,,,へん,hen
+135,4,⽚,split wood,かた,kata,,,,
+136,4,,split wood,かたへん,katahen,,,へん,hen
+137,4,,"fang, canine tooth",きば,kiba,,,,
+138,4,⽜,cow,うし,ushi,,,,
+139,4,,cow,うしへん,ushihen,,,へん,hen
+140,4,⽝,dog,いぬ,inu,,,,
+141,4,,"jewelry, jeweled king",おうへん,ouhen,,,へん,hen
+142,4,⺭,"altar, festival, religious service",しめすへん,shimesuhen,,,へん,hen
+143,4,㓁,net,あみがしら,amigashira,,,,
+144,4,⺹,"old, old-age",おいかんむり,oikanmuri,,,かんむり,kanmuri
+145,5,⽞,darkness,げん,gen,,,,
+146,5,⽟,jewelry,たま,tama,,,,
+147,5,,melon,うり,uri,,,,
+148,5,⽡,tile,かわら,kawara,,,,
+149,5,⽢,sweet,あまい,amai,,,,
+150,5,⽣,"birth, to be born, live",うまれる,umareru,,,,
+151,5,⽤,to use,もちいる,mochiiru,,,,
+152,5,⽥,rice paddy,た,ta,,,,
+153,5,,rice paddy,たへん,tahen,,,へん,hen
+154,5,⽦,bolt of cloth,ひき,hiki,,,,
+155,5,⺪,bolt of cloth,ひきへん,hikihen,,,へん,hen
+156,5,⽧,sickness,やまいだれ,yamaidare,,,たれ,tare
+157,5,⽨,"outspread legs, departure",はつがしら,hatsugashira,,,かんむり,kanmuri
+158,5,⽩,white,しろ,shiro,,,,
+159,5,,white,はくへん,hakuhen,,,へん,hen
+160,5,⽪,"skin, hide",けがわ,kegawa,,,,
+161,5,⽫,"plate, bowl",さら,sara,,,,
+162,5,⽬,eye,め,me,,,,
+163,5,,eye,めへん,mehen,,,へん,hen
+164,5,,eye,よこめ,yokome,,,かんむり,kanmuri
+165,5,⽭,halberd,ほこ,hoko,,,,
+166,5,,halberd,ほこへん,hokohen,,,へん,hen
+167,5,⽮,arrow,や,ya,,,,
+168,5,,arrow,やへん,yahen,,,へん,hen
+169,5,⽯,stone,いし,ishi,,,,
+170,5,,stone,いしへん,ishihen,,,へん,hen
+171,5,⽰,"altar, festival, religious service",しめす,shimesu,,,,
+172,5,⽱,footprint,じゅうのあし,juunoashi,,,,
+173,5,⽲,grain,のぎへん,nogihen,,,へん,hen
+174,5,⽳,"hole, cave",あな,ana,,,,
+175,5,,"hole, cave",あなかんむり,anakanmuri,,,かんむり,kanmuri
+176,5,⽴,to stand,たつ,tatsu,,,,
+177,5,,to stand,たつへん,tatsuhen,,,へん,hen
+178,5,,"fang, canine tooth",きば,kiba,,,,
+179,5,,"fang, canine tooth",きばへん,kibahen,,,へん,hen
+180,5,氺,water,したみず,shitamizu,,,,
+181,5,⺫,net,あみがしら,amigashira,,,かんむり,kanmuri
+182,5,𦉰 ,net,あみがしら,amigashira,,,,
+183,5,⻂,clothing,ころもへん,koromohen,,,へん,hen
+184,5,⺛,not,むにょう,munyou,,,,
+185,6,⽵,bamboo,たけ,take,,,,
+186,6,⺮,bamboo,たけかんむり,takekanmuri,,,かんむり,kanmuri
+187,6,⽶,rice,こめ,kome,,,,
+188,6,,rice,こめへん,komehen,,,へん,hen
+189,6,⽷,thread,いと,ito,,,,
+190,6,,thread,いとへん,itohen,,,へん,hen
+191,6,⽸,earthen jar,みずがめ,mizugame,,,,
+192,6,⽹,net,あみめ,amime,,,,
+193,6,⽺,sheep,ひつじ,hitsuji,,,,
+194,6,⺷,sheep,ひつじ,hitsuji,,,,
+195,6,羽,"feather, wing",はね,hane,,,,
+196,6,⽻,"feather, wing",はね,hane,,,,
+197,6,⽼,"old, old-age",おいかんむり,oikanmuri,,,,
+198,6,⽽,and also,しこうして,shikoushite,,,,
+199,6,⽾,plow,らいすき,raisuki,,,へん,hen
+200,6,⽿,ear,みみ,mimi,,,,
+201,6,,ear,みみへん,mimihen,,,へん,hen
+202,6,⾀,writing brush,ふでづくり,fudezukuri,,,,
+203,6,⾁,"flesh, meat",にく,niku,,,,
+204,6,⾂,"retainer, minister",しん,shin,,,,
+205,6,⾃,self,みずから,mizukara,,,,
+206,6,⾄,"to arrive, reach",いたる,itaru,,,,
+207,6,,"to arrive, reach",いたるへん,itaruhen,,,へん,hen
+208,6,⾅,"mortar, quern",うす,usu,,,,
+209,6,⾆,tongue,した,shita,,,,
+210,6,⾇,"contrary, to err",まいあし,maiashi,,,,
+211,6,⾈,"ship, boat",ふね,fune,,,,
+212,6,,"ship, boat",ふねへん,funehen,,,へん,hen
+213,6,⾉,boundary,こん,kon,,,,
+214,6,⾊,color,いろ,iro,,,,
+215,6,⾋,"grass, plant",くさ,kusa,,,,
+216,6,⾌,tiger,とらがしら,toragashira,,,かんむり,kanmuri
+217,6,⾍,"worm, insect, bug",むし,mushi,,,,
+218,6,,"worm, insect, bug",むしへん,mushihen,,,へん,hen
+219,6,⾎,blood,ち,chi,,,,
+220,6,⾏,to go,ぎょうがまえ,gyougamae,,,"かまえ, ぎょうがまえ","kamae, gyougamae"
+221,6,⾐,clothing,ころも,koromo,,,,
+222,6,⾑,"cover, west",にし,nishi,,,,
+223,6,⻃,"cover, west",にし,nishi,,,,
+224,6,⽠,melon,うり,uri,,,,
+225,7,⾒,to see,みる,miru,,,,
+226,7,⾓,"horn, corner",つの,tsuno,,,,
+227,7,,"horn, corner",つのへん,tsunohen,,,へん,hen
+228,7,⾔,"words, to speak, say",げん,gen,gen-word,,,
+229,7,,"words, to speak, say",ごんべん,gonben,,,へん,hen
+230,7,⾕,valley,たに,tani,,,,
+231,7,,valley,たにへん,tanihen,,,へん,hen
+232,7,⾖,bean,まめ,mame,,,,
+233,7,,bean,まめへん,mamehen,,,へん,hen
+234,7,⾗,pig,いのこ,inoko,,,,
+235,7,⾘,badger,むじなへん,mujinahen,,,へん,hen
+236,7,⾙,"shell, property, wealth",かい,kai,,,,
+237,7,,"shell, property, wealth",かいへん,kaihen,,,へん,hen
+238,7,⾚,red,あか,aka,,,,
+239,7,⾛,to run,はしる,hashiru,,,,
+240,7,,to run,そうにょう,sounyou,,,にょう,nyou
+241,7,⾜,"foot, leg",あし,ashi,,,,
+242,7,⻊,"foot, leg",あしへん,ashihen,,,へん,hen
+243,7,⾝,body,み,mi,,,,
+244,7,,body,みへん,mihen,,,へん,hen
+245,7,⾞,"vehicle, wheel, car",くるま,kuruma,,,,
+246,7,,"vehicle, wheel, car",くるまへん,kurumahen,,,へん,hen
+247,7,⾟,bitter,からい,karai,,,,
+248,7,⾠,"Fifth zodiac sign, 7–9 A.M.",しんのたつ,shinnotatsu,,,,
+249,7,⾡,"to advance, move ahead",しんにょう,shinnyou,,,,
+250,7,⾢,community,むら,mura,,,,
+251,7,⾣,"sake jar, bird",ひよみのとり,hiyominotori,,torihen,,
+252,7,,"sake jar, bird",とりへん,torihen,,,へん,hen
+253,7,⾤,to separate,のごめ,nogome,,,,
+254,7,,to separate,のごめへん,nogomehen,,,へん,hen
+255,7,⾥,"village, (3.93 km)",さと,sato,,,,
+256,7,,"village, (3.93 km)",さとへん,satohen,,,へん,hen
+257,7,⾂,"retainer, minister",しん,shin,,,,
+258,7,,"contrary, to err",まいあし,maiashi,,,,
+259,7,⻨,wheat,むぎ,mugi,,,,
+260,8,⾦,"metal, gold, mineral",かね,kane,,,,
+261,8,,"metal, gold, mineral",かねへん,kanehen,,,へん,hen
+262,8,⻑,long,ながい,nagai,,,,
+263,8,⾨,"gate, door",もんがまえ,mongamae,,,"かまえ, もんがまえ","kamae, mongamae"
+264,8,⾩,hill,こざと,kozato,,,,
+265,8,⾪,to capture,れいづくり,reizukuri,,,つくり,tsukuri
+266,8,⾫,small bird,ふるとり,furutori,,,,
+267,8,⾬,rain,あめ,ame,,,,
+268,8,⻗,rain,あめかんむり,amekanmuri,,,かんむり,kanmuri
+269,8,⾭,"blue, green",あお,ao,,,,
+270,8,⻘,"blue, green",あお,ao,,,,
+271,8,⾮,"wrong, non-",あらず,arazu,,,,
+272,8,⻟,"food, to eat",しょくへん,shokuhen,,,へん,hen
+273,8,⻫,alike,せい,sei,,,,
+274,9,⾯,"face, surface",めん,men,,,,
+275,9,⾰,leather,つくりがわ,tsukurigawa,,,,
+276,9,,leather,なめしがわ,nameshigawa,,,,
+277,9,⾲,leek,にら,nira,,,,
+278,9,⾳,"sound, noise",おと,oto,,,,
+279,9,⾴,"head, page",おおがい,oogai,,,つくり,tsukuri
+280,9,⾵,wind,かぜ,kaze,,,,
+281,9,⾶,to fly,とぶ,tobu,,,,
+282,9,⾷,"food, to eat",しょく,shoku,,,,
+283,9,⾸,head,くび,kubi,,,,
+284,9,⾹,scent,かおり,kaori,,,,
+285,10,⾺,horse,うま,uma,,,,
+286,10,,horse,うまへん,umahen,,,へん,hen
+287,10,⾻,bone,ほね,hone,,,,
+288,10,,bone,ほねへん,honehen,,,へん,hen
+289,10,⾼,high,たかい,takai,,,,
+290,10,⾽,long hair,かみかんむり,kamikanmuri,,,かんむり,kanmuri
+291,10,⾾,fighting,たたかいがまえ,tatakaigamae,,,かまえ,kamae
+292,10,⾿,herbs,においざけ,nioizake,,,,
+293,10,⿀,tripod,れき,reki,,,,
+294,10,⿁,demon,おに,oni,,,,
+295,10,⾱,leather,なめしがわ,nameshigawa,,,,
+296,11,⿂,fish,うお,uo,,,,
+297,11,,fish,うおへん,uohen,,,へん,hen
+298,11,⿃,bird,とり,tori,,,,
+299,11,⿄,salt,しお,shio,,,,
+300,11,⿅,deer,しか,shika,,,,
+301,11,⿆,wheat,むぎ,mugi,,,,
+302,11,⿇,hemp,あさ,asa,,,,
+303,11,,hemp,あさかんむり,asakanmuri,,,かんむり,kanmuri
+304,11,⻩,yellow,き,ki,ki-yellow,,,
+305,11,黒,black,くろ,kuro,,,,
+306,11,⻲,turtle,かめ,kame,,,,
+307,12,⿈,yellow,き,ki,,,,
+308,12,⿉,millet,きび,kibi,,,,
+309,12,⿊,black,くろ,kuro,,,,
+310,12,⿋,embroider,ぬいとり,nuitori,,,,
+311,12,⻭,tooth,は,ha,,,,
+312,13,⿌,frog,かえる,kaeru,,,,
+313,13,⿍,tripod,かなえ,kanae,,,,
+314,13,⿎,drum,つづみ,tuzumi,,,,
+315,13,⿏,"rat, mouse",ねずみ,nezumi,,,,
+316,14,⿐,nose,はな,hana,,,,
+317,14,⿑,alike,せい,sei,,,,
+318,15,⿒,tooth,は,ha,,,,
+319,16,⿓,dragon,りゅう,ryuu,,,,
+320,16,⿔,turtle,かめ,kame,,,,
+321,17,⿕,flute,やく,yaku,,,,
+322,n/a,々,n/a,n/a,n/a,,,,
