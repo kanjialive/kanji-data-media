@@ -3,7 +3,7 @@ Kanji-alive
 
 [_Kanji alive_][1] is a free resource for learning to read and write kanji. With few exceptions, this repository includes all of the language data and media files created by the [_Kanji alive_ team](http://kanjialive.com/credits) for our web application ([https://app.kanjialive.com][2]) and website. Click on the "Download ZIP" button on the right for the full archive.
 
-The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. Developers can also make use of our [public API](https://market.mashape.com/kanjialive/learn-to-read-and-write-japanese-kanji) ([docs](https://app.kanjialive.com/api/docs/)) and [access the source code](https://github.com/kanjialive/web-application) for the _Kanji alive_ web application. 
+The files will primarily be of interest to instructors and students who want to re-use them for teaching and learning purposes. Developers can also make use of our [public API](https://rapidapi.com/kanjialive/api/learn-to-read-and-write-japanese-kanji/) ([docs](https://app.kanjialive.com/api/docs/)) and [access the source code](https://github.com/kanjialive/web-application) for the _Kanji alive_ web application. 
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com" property="cc:attributionName" rel="cc:attributionURL">Kanji alive</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://kanjialive.com/credits/" rel="cc:morePermissions">http://kanjialive.com/credits/</a>.
 
