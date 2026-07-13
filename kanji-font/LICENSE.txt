@@ -1,0 +1,37 @@
+M+ FONTS LICENSE
+================
+
+Applies to the font files in this directory:
+
+    mplus-1m-light-webfont.woff2
+    mplus-1m-light-webfont.woff
+    mplus-1m-light-webfont.ttf
+    mplus-1m-light-webfont.eot
+
+These are a subset of M+ 1m light, reduced to the characters listed in
+list_of_characters.txt. The copyright notice embedded in the font reads:
+
+    Copyright(c) 2013 M+ FONTS PROJECT
+
+M+ fonts of this vintage are distributed under the M+ FONTS LICENSE, reproduced
+in full below (this is the complete text of the project's LICENSE_E file).
+
+NOTE: the newer "M PLUS 1" / "M PLUS 2" families, released from ~2021 onward,
+switched to the SIL Open Font License. That does not apply to these files, which
+are the older M+ 1m and are governed by the licence below.
+
+Unlike the other media files in this repository, which are licensed under a
+Creative Commons CC-BY 4.0 license, these font files are covered by the M+ FONTS
+LICENSE. Please ensure this license file is always included with the font should
+you wish to redistribute it.
+
+----------------------------------------------------------------------
+M+ FONTS LICENSE
+
+These fonts are free software.
+Unlimited permission is granted to use, copy, and distribute them, with or
+without modification, either commercially or noncommercially.
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+----------------------------------------------------------------------
+
+Upstream project: https://mplusfonts.github.io/
