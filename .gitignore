@@ -1,0 +1,7 @@
+# macOS Finder metadata. Written into any folder the Finder has looked at, so it
+# can appear anywhere in this repo, not just at the root.
+#
+# A pattern with no slash in it matches at EVERY depth, which is what makes this
+# rule global: it ignores ./.DS_Store, ./language-data/.DS_Store, and so on.
+# (A leading slash — /.DS_Store — would match the root one ONLY.)
+.DS_Store
