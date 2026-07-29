@@ -4,19 +4,19 @@ Radical ID#,Stroke#,Radical,Meaning,Reading-J,Reading-R,R-Filename,Anim-Filename
 3,1,⼂,dot,てん,ten,,,,
 4,1,⼃,diagonal sweeping stroke,の,no,,,,
 5,1,,diagonal sweeping stroke,のかんむり,nokanmuri,,,かんむり,kanmuri
-6,1,⼄,the second ,おつ,otsu,otsu-nine,otsu,,
+6,1,⼄,the second,おつ,otsu,otsu-nine,otsu,,
 7,1,⺃,the second,おつ,otsu,,,,
 8,1,⼅,vertical stroke with a hook,はねぼう,hanebou,,,,
 9,2,⼆,two,に,ni,,,,
 10,2,⼇,"lid, top",なべぶた,nabebuta,,,かんむり,kanmuri
 11,2,⼈,person,ひと,hito,,,,
-12,2,⺅,person ,にんべん,ninben,,,へん,hen
-13,2,𠆢,person ,ひとやね,hitoyane,,,かんむり,kanmuri
+12,2,⺅,person,にんべん,ninben,,,へん,hen
+13,2,𠆢,person,ひとやね,hitoyane,,,かんむり,kanmuri
 14,2,⼉,human legs,ひとあし,hitoashi,,,あし,ashi
 15,2,⼊,to enter,いる,iru,,,,
 16,2,⼋,eight,はち,hachi,,,,
 17,2,,eight,はちがしら,hachigashira,,,,
-18,2,⼌ ,to enclose,けいがまえ,keigamae,,,"かまえ, けいがまえ","kamae, keigamae"
+18,2,⼌,to enclose,けいがまえ,keigamae,,,"かまえ, けいがまえ","kamae, keigamae"
 19,2,⼍,"cover, crown",わかんむり,wakanmuri,,,かんむり,kanmuri
 20,2,⼎,ice,にすい,nisui,,,へん,hen
 21,2,⼏,table,きにょう,kinyou,,,つくり,tsukuri
@@ -74,8 +74,8 @@ Radical ID#,Stroke#,Radical,Meaning,Reading-J,Reading-R,R-Filename,Anim-Filename
 73,3,⼵,"to move, stretch",えんにょう,ennyou,,,にょう,nyou
 74,3,⼶,folded hands,にじゅうあし,nijuuashi,,,あし,ashi
 75,3,⼷,javelin,いぐるみ,igurumi,,,,
-76,3,⼸,bow （in archery）,ゆみ,yumi,,,,
-77,3,,bow （in archery）,ゆみへん,yumihen,,,へん,hen
+76,3,⼸,bow（in archery）,ゆみ,yumi,,,,
+77,3,,bow（in archery）,ゆみへん,yumihen,,,へん,hen
 78,3,⼹,pig’s head,けいがしら,keigashira,,,,
 79,3,⺕,pig’s head,けいがしら,keigashira,,,,
 80,3,⺔,pig’s head,けいがしら,keigashira,,,,
@@ -320,4 +320,4 @@ Radical ID#,Stroke#,Radical,Meaning,Reading-J,Reading-R,R-Filename,Anim-Filename
 319,16,⿓,dragon,りゅう,ryuu,,,,
 320,16,⿔,turtle,かめ,kame,,,,
 321,17,⿕,flute,やく,yaku,,,,
-322,n/a,々,n/a,n/a,n/a,,,,
+322,n/a,々,,,,none,,,

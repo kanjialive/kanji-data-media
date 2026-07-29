@@ -16,6 +16,28 @@ The data in _japanese_radicals_ is identical to that in _ka_data_ with two excep
 
 As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly in the .csv and .xlsx files, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. The PDF version includes this font and can be used 'as is'.
 
+### Recent Changes (July 2026)
+
+The following corrections were made to both spreadsheets (in their .csv and .xlsx versions alike), bringing them back into agreement with the language data used by the _Kanji alive_ web application.
+
+**ka_data**
+
+| Change | Rows |
+|--------|------|
+| 画: radical corrected from ⼐（かんにょう）to ⽥（た）, together with its dependent radical fields (radical number, strokes, name, meaning and position) | 1 |
+| 可: missing kanji meaning added ("able, approve") | 1 |
+| 貯: kanji meaning corrected from "lay-up, storage, store" to "lay up, storage, store" | 1 |
+| 々: placeholder "n/a" values removed from the kunyomi and radical name/meaning fields (now blank); radical strokes normalised to "n/a" | 1 |
+| Trailing whitespace removed from radical meanings ("person", "the second"), the radical character ⼌ and three example words (for 一, 九 and 簡) | 72 |
+
+**japanese-radicals**
+
+| Change | Rows |
+|--------|------|
+| 々 (ID 322): placeholder "n/a" values removed from Meaning, Reading-J and Reading-R (now blank); R-Filename set to "none" | 1 |
+| Trailing whitespace (non-breaking spaces) removed from Meaning (IDs 6, 12, 13) and Radical (ID 18) | 4 |
+| Meaning of ⼸ and its variant corrected from "bow （in archery）" to "bow（in archery）" (IDs 76, 77) | 2 |
+
 ### Data Provenance
 
 None of the language data presented here is dependant on or derived from Jim Breen's [Electronic Dictionary Research and Development Group](http://www.edrdg.org) datasets (i.e. on JMDICT/EDICT, KANJIDIC and KRADFILE/RADKFILE). 
