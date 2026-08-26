@@ -18,6 +18,23 @@ The data in _japanese_radicals_ is identical to that in _ka_data_ with two excep
 
 As with _ka-data_, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings. To view these characters correctly in the .csv and .xlsx files, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font. The PDF version includes this font and can be used 'as is'.
 
+### Recent Changes (August 2026)
+
+The following corrections were made to _ka_data_ (in its .csv and .xlsx versions) and to the database used by the _Kanji alive_ web application. The _japanese-radicals_ files are unchanged.
+
+**ka_data**
+
+| Change | Rows |
+|--------|------|
+| 薄: onyomi kana corrected from ハス to ハク | 1 |
+| 解, 断, 造: romaji typos corrected ("takasu" → "tokasu", "korowa" → "kotowa", "tukuri" → "tsukuri") | 3 |
+| 納, 坊: rare onyomi removed (納: ナツ "nat"; 坊: ボツ "bot") | 2 |
+| 染: last kunyomi romaji corrected from "jimiru" to "shimi", matching its kana しみ | 1 |
+| 凍: first kunyomi corrected from こ to こお ("ko" → "koo") | 1 |
+| 優: kunyomi やさし completed to やさしい ("yasashi" → "yasashii") | 1 |
+| 告: literary kunyomi つぐ ("tsugu") removed | 1 |
+| 法, 合, 以, 三: readings with a doubled consonant now written with small っ/ッ — 法 ハッ、ホッ ("hat, hot"), 合 カッ、ガッ ("kat, gat"), 以 adds もっ ("mot"), 三 adds みっ ("mit") | 4 |
+
 ### Recent Changes (July 2026)
 
 The following corrections were made to both spreadsheets (in their .csv and .xlsx versions alike), bringing them back into agreement with the language data used by the _Kanji alive_ web application.
