@@ -20,8 +20,7 @@ As with _ka-data_, please note also that some of the radical characters in the s
 
 ### Recent Changes (August 2026)
 
-The following corrections were made to _ka_data_ (in its .csv and .xlsx versions) and to the database used by the _Kanji alive_ web application. The _japanese-radicals_ files are unchanged.
-
+The following corrections were made to both spreadsheets (in their .csv and .xlsx versions) and, where applicable, to the database used by the _Kanji alive_ web application.
 **ka_data**
 
 | Change | Rows |
@@ -34,6 +33,13 @@ The following corrections were made to _ka_data_ (in its .csv and .xlsx versions
 | 優: kunyomi やさし completed to やさしい ("yasashi" → "yasashii") | 1 |
 | 告: literary kunyomi つぐ ("tsugu") removed | 1 |
 | 法, 合, 以, 三: readings with a doubled consonant now written with small っ/ッ — 法 ハッ、ホッ ("hat, hot"), 合 カッ、ガッ ("kat, gat"), 以 adds もっ ("mot"), 三 adds みっ ("mit") | 4 |
+| Stray space before a comma removed from an example meaning for each of 吸, 迷, 囲, 乾, 鳴, 辛 and 幹 (e.g. "cigarette end , tobacco ashes") | 7 |
+
+**japanese-radicals**
+
+| Change | Rows |
+|--------|------|
+| Trailing non-breaking space removed from the Radical character 𦉰 (ID 182) | 1 |
 
 ### Recent Changes (July 2026)
 
