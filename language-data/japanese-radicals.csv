@@ -1,323 +1,322 @@
-Radical ID#,Stroke#,Radical,Meaning,Reading-J,Reading-R,R-Filename,Anim-Filename,Position-J,Position-R
-1,1,⼀,"one, horizontal stroke",いち,ichi,,,,
-2,1,⼁,vertical stroke,たてぼう,tatebou,,,,
-3,1,⼂,dot,てん,ten,,,,
-4,1,⼃,diagonal sweeping stroke,の,no,,,,
-5,1,,diagonal sweeping stroke,のかんむり,nokanmuri,,,かんむり,kanmuri
-6,1,⼄,the second,おつ,otsu,otsu-nine,otsu,,
-7,1,⺃,the second,おつ,otsu,,,,
-8,1,⼅,vertical stroke with a hook,はねぼう,hanebou,,,,
-9,2,⼆,two,に,ni,,,,
-10,2,⼇,"lid, top",なべぶた,nabebuta,,,かんむり,kanmuri
-11,2,⼈,person,ひと,hito,,,,
-12,2,⺅,person,にんべん,ninben,,,へん,hen
-13,2,𠆢,person,ひとやね,hitoyane,,,かんむり,kanmuri
-14,2,⼉,human legs,ひとあし,hitoashi,,,あし,ashi
-15,2,⼊,to enter,いる,iru,,,,
-16,2,⼋,eight,はち,hachi,,,,
-17,2,,eight,はちがしら,hachigashira,,,,
-18,2,⼌,to enclose,けいがまえ,keigamae,,,"かまえ, けいがまえ","kamae, keigamae"
-19,2,⼍,"cover, crown",わかんむり,wakanmuri,,,かんむり,kanmuri
-20,2,⼎,ice,にすい,nisui,,,へん,hen
-21,2,⼏,table,きにょう,kinyou,,,つくり,tsukuri
-22,2,⺇,wind,かぜかんむり,kazekanmuri,,,かんむり,kanmuri
-23,2,⼐,"container, open box",かんにょう,kannyou,,,にょう,nyou
-24,2,⼑,"knife, sword",かたな,katana,,,,
-25,2,⺉,"knife, sword",りっとう,rittou,,,つくり,tsukuri
-26,2,⼒,power,ちから,chikara,,,,
-27,2,⼓,to wrap,つつみがまえ,tsutsumigamae,,,"かまえ, つつみがまえ","kamae, tsutsumigamae"
-28,2,⼔,spoon,さじ,saji,,,つくり,tsukuri
-29,2,⼕,box,はこがまえ,hakogamae,,,"かまえ, はこがまえ","kamae, hakogamae"
-30,2,⼖,"to conceal, hide",かくしがまえ,kakushigamae,,,"かまえ, はこがまえ","kamae, hakogamae"
-31,2,⼗,ten,じゅう,juu,,,,
-32,2,⼘,oracle,ぼく,boku,,,,
-33,2,⼙,"stamp, seal",ふしづくり,fushizukuri,,,つくり,tsukuri
-34,2,⼚,cliff,がんだれ,gandare,,,たれ,tare
-35,2,⼛,"private, Katakana Mu",む,mu,,,,
-36,2,⼜,"again, right hand",また,mata,,,,
-37,3,⼝,mouth,くち,kuchi,,,,
-38,3,,mouth,くちへん,kuchihen,,,へん,hen
-39,3,⼞,"border, territorial boundaries",くにがまえ,kunigamae,,,"かまえ, くにがまえ","kamae, kunigamae"
-40,3,⼟,earth,つち,tsuchi,,,,
-41,3,,earth,つちへん,tsuchihen,,,へん,hen
-42,3,⼠,"man, scholar, samurai",さむらい,samurai,,,,
-43,3,,"man, scholar, samurai",さむらいかんむり,samuraikanmuri,,samurai,かんむり,kanmuri
-44,3,⼡,to follow,のまた,nomata,,,,
-45,3,⼢,to go slowly,なつあし,natsuashi,,,あし,ashi
-46,3,⼣,evening,ゆうべ,yuube,,,,
-47,3,⼤,"large, big",だい,dai,,,,
-48,3,⼥,woman,おんな,onna,,,,
-49,3,,woman,おんなへん,onnahen,,,へん,hen
-50,3,⼦,"child, son",こ,ko,,,,
-51,3,,"child, son",こへん,kohen,,,へん,hen
-52,3,⼧,"roof, house",うかんむり,ukanmuri,,,かんむり,kanmuri
-53,3,⼨,"inch, (2.25 cm)",すん,sun,,,,
-54,3,,"inch, (2.25 cm)",すんづくり,sunzukuri,,sun,つくり,tsukuri
-55,3,⼩,small,しょう,shou,,,,
-56,3,⺌,small,しょうかんむり,shoukanmuri,,,かんむり,kanmuri
-57,3,⺐,lame leg,だいのまげあし,dainomageashi,,,つくり,tsukuri
-58,3,⼫,"corpse, awning",しかばね,shikabane,,,たれ,tare
-59,3,⼬,sprout,くさのめ,kusanome,,,,
-60,3,⼭,mountain,やま,yama,,,,
-61,3,,mountain,やまへん,yamahen,,,へん,hen
-62,3,,mountain,やまかんむり,yamakanmuri,,,かんむり,kanmuri
-63,3,⼮,winding river,まがりがわ,magarigawa,,,,
-64,3,川,river,さんぼんがわ,sanbongawa,,,,
-65,3,⼯,"work, carpenter, skill",たくみ,takumi,,,,
-66,3,,"work, carpenter, skill",たくみへん,takumihen,,,へん,hen
-67,3,⼰,self,おのれ,onore,,,,
-68,3,⼱,cloth,はば,haba,,,,
-69,3,,cloth,はばへん,habahen,,,へん,hen
-70,3,⼲,"to dry, shield",かん,kan,,,,
-71,3,⺓,"young, slight",いとがしら,itogashira,,,,
-72,3,⼴,slanting roof,まだれ,madare,,,たれ,tare
-73,3,⼵,"to move, stretch",えんにょう,ennyou,,,にょう,nyou
-74,3,⼶,folded hands,にじゅうあし,nijuuashi,,,あし,ashi
-75,3,⼷,javelin,いぐるみ,igurumi,,,,
-76,3,⼸,bow（in archery）,ゆみ,yumi,,,,
-77,3,,bow（in archery）,ゆみへん,yumihen,,,へん,hen
-78,3,⼹,pig’s head,けいがしら,keigashira,,,,
-79,3,⺕,pig’s head,けいがしら,keigashira,,,,
-80,3,⺔,pig’s head,けいがしら,keigashira,,,,
-81,3,⼺,"hair-style, light rays",さんづくり,sanzukuri,,,つくり,tsukuri
-82,3,⼻,"step, stride, street, to go",ぎょうにんべん,gyouninben,,,へん,hen
-83,3,⺾,grass,くさかんむり,kusakanmuri,,,かんむり,kanmuri
-84,3,⻌,"road, walk, to advance",しんにょう,shinnyou,,,にょう,nyou
-85,3,⻏,"village, country, city",おおざと,oozato,,,つくり,tsukuri
-86,3,⻖,"hill, mound",こざとへん,kozatohen,,,へん,hen
-87,3,⺍,Katakana Tsu,つ,tsu,,,かんむり,kanmuri
-88,3,⺖,"heart, mind, spirit",りっしんべん,risshinben,,,へん,hen
-89,3,⺘,hand,てへん,tehen,,,へん,hen
-90,3,⺡,water,さんずい,sanzui,,,へん,hen
-91,3,⺨,beast,けものへん,kemonohen,,,へん,hen
-92,4,⼼,"heart, mind, spirit",こころ,kokoro,,,,
-93,4,⺗,"heart, mind, spirit",したごころ,shitagokoro,,,あし,ashi
-94,4,⼽,"spear, weapon",ほこ,hoko,,,,
-95,4,⼾,door,と,to,,,,
-96,4,,door,とだれ,todare,,,たれ,tare
-97,4,⼿,hand,て,te,,,,
-98,4,⽀,branch,しにょう,shinyou,,,,
-99,4,⽁,"activity, to strike, hit",ぼくづくり,bokuzukuri,,,つくり,tsukuri
-100,4,⺙,"activity, to strike, hit",ぼくづくり,bokuzukuri,,,つくり,tsukuri
-101,4,⽂,"literature, letters",ぶん,bun,,,,
-102,4,⽃,"big dipper, ladle, 18 liters",ますづくり,masuzukuri,,,つくり,tsukuri
-103,4,⽄,axe,おのづくり,onozukuri,,,つくり,tsukuri
-104,4,⽅,"direction, flag",ほう,hou,,,,
-105,4,,"direction, flag",ほうへん,houhen,,,へん,hen
-106,4,⽆,not,むにょう,munyou,,,,
-107,4,⽇,"sun, day, time",ひ,hi,,,,
-108,4,,"sun, day, time",ひへん,hihen,,,へん,hen
-109,4,⽈,to say,ひらび,hirabi,,,,
-110,4,⽉,"moon, month, period",つき,tsuki,,,,
-111,4,⺝,"moon, month, period",つきへん,tsukihen,,tsuki,へん,hen
-112,4,,"meat, flesh",にくづき,nikuzuki,,,,
-113,4,⽊,"tree, wood",き,ki,,,,
-114,4,,"tree, wood",きへん,kihen,,,へん,hen
-115,4,⽋,"to lack, yawn",あくび,akubi,,,,
-116,4,⽌,to stop,とめる,tomeru,,,,
-117,4,⽍,"death & dying, to decompose",がつ,gatsu,,,,
-118,4,,"death & dying, to decompose",がつへん,gatsuhen,,,へん,hen
-119,4,⽎,"lance shaft, action",るまた,rumata,,,つくり,tsukuri
-120,4,⽏,"not, mother",なかれ,nakare,,,,
-121,4,⽐,to compare,くらべる,kuraberu,,,,
-122,4,⽑,hair,け,ke,,,,
-123,4,⽒,"family, clan",うじ,uji,,,,
-124,4,⽓,"steam, air",きがまえ,kigamae,,,"かまえ, きがまえ","kamae, kigamae"
-125,4,⽔,water,みず,mizu,,,,
-126,4,⽕,fire,ひ,hi,hi-fire,,,
-127,4,,fire,ひへん,hihen,hihen-fire,,へん,hen
-128,4,⺣,fire,れっか,rekka,,,あし,ashi
-129,4,⽖,"claw, nail",つめ,tsume,,,,
-130,4,⺤,"claw, nail",つめかんむり,tsumekanmuri,,,かんむり,kanmuri
-131,4,爫,"claw, nail",つめかんむり,tsumekanmuri,,,かんむり,kanmuri
-132,4,⽗,father,ちち,chichi,,,,
-133,4,⽘,to mix,こう,kou,,,,
-134,4,⽙,split wood,しょうへん,shouhen,,,へん,hen
-135,4,⽚,split wood,かた,kata,,,,
-136,4,,split wood,かたへん,katahen,,,へん,hen
-137,4,,"fang, canine tooth",きば,kiba,,,,
-138,4,⽜,cow,うし,ushi,,,,
-139,4,,cow,うしへん,ushihen,,,へん,hen
-140,4,⽝,dog,いぬ,inu,,,,
-141,4,,"jewelry, jeweled king",おうへん,ouhen,,,へん,hen
-142,4,⺭,"altar, festival, religious service",しめすへん,shimesuhen,,,へん,hen
-143,4,㓁,net,あみがしら,amigashira,,,,
-144,4,⺹,"old, old-age",おいかんむり,oikanmuri,,,かんむり,kanmuri
-145,5,⽞,darkness,げん,gen,,,,
-146,5,⽟,jewelry,たま,tama,,,,
-147,5,,melon,うり,uri,,,,
-148,5,⽡,tile,かわら,kawara,,,,
-149,5,⽢,sweet,あまい,amai,,,,
-150,5,⽣,"birth, to be born, live",うまれる,umareru,,,,
-151,5,⽤,to use,もちいる,mochiiru,,,,
-152,5,⽥,rice paddy,た,ta,,,,
-153,5,,rice paddy,たへん,tahen,,,へん,hen
-154,5,⽦,bolt of cloth,ひき,hiki,,,,
-155,5,⺪,bolt of cloth,ひきへん,hikihen,,,へん,hen
-156,5,⽧,sickness,やまいだれ,yamaidare,,,たれ,tare
-157,5,⽨,"outspread legs, departure",はつがしら,hatsugashira,,,かんむり,kanmuri
-158,5,⽩,white,しろ,shiro,,,,
-159,5,,white,はくへん,hakuhen,,,へん,hen
-160,5,⽪,"skin, hide",けがわ,kegawa,,,,
-161,5,⽫,"plate, bowl",さら,sara,,,,
-162,5,⽬,eye,め,me,,,,
-163,5,,eye,めへん,mehen,,,へん,hen
-164,5,,eye,よこめ,yokome,,,かんむり,kanmuri
-165,5,⽭,halberd,ほこ,hoko,,,,
-166,5,,halberd,ほこへん,hokohen,,,へん,hen
-167,5,⽮,arrow,や,ya,,,,
-168,5,,arrow,やへん,yahen,,,へん,hen
-169,5,⽯,stone,いし,ishi,,,,
-170,5,,stone,いしへん,ishihen,,,へん,hen
-171,5,⽰,"altar, festival, religious service",しめす,shimesu,,,,
-172,5,⽱,footprint,じゅうのあし,juunoashi,,,,
-173,5,⽲,grain,のぎへん,nogihen,,,へん,hen
-174,5,⽳,"hole, cave",あな,ana,,,,
-175,5,,"hole, cave",あなかんむり,anakanmuri,,,かんむり,kanmuri
-176,5,⽴,to stand,たつ,tatsu,,,,
-177,5,,to stand,たつへん,tatsuhen,,,へん,hen
-178,5,,"fang, canine tooth",きば,kiba,,,,
-179,5,,"fang, canine tooth",きばへん,kibahen,,,へん,hen
-180,5,氺,water,したみず,shitamizu,,,,
-181,5,⺫,net,あみがしら,amigashira,,,かんむり,kanmuri
-182,5,𦉰,net,あみがしら,amigashira,,,,
-183,5,⻂,clothing,ころもへん,koromohen,,,へん,hen
-184,5,⺛,not,むにょう,munyou,,,,
-185,6,⽵,bamboo,たけ,take,,,,
-186,6,⺮,bamboo,たけかんむり,takekanmuri,,,かんむり,kanmuri
-187,6,⽶,rice,こめ,kome,,,,
-188,6,,rice,こめへん,komehen,,,へん,hen
-189,6,⽷,thread,いと,ito,,,,
-190,6,,thread,いとへん,itohen,,,へん,hen
-191,6,⽸,earthen jar,みずがめ,mizugame,,,,
-192,6,⽹,net,あみめ,amime,,,,
-193,6,⽺,sheep,ひつじ,hitsuji,,,,
-194,6,⺷,sheep,ひつじ,hitsuji,,,,
-195,6,羽,"feather, wing",はね,hane,,,,
-196,6,⽻,"feather, wing",はね,hane,,,,
-197,6,⽼,"old, old-age",おいかんむり,oikanmuri,,,,
-198,6,⽽,and also,しこうして,shikoushite,,,,
-199,6,⽾,plow,らいすき,raisuki,,,へん,hen
-200,6,⽿,ear,みみ,mimi,,,,
-201,6,,ear,みみへん,mimihen,,,へん,hen
-202,6,⾀,writing brush,ふでづくり,fudezukuri,,,,
-203,6,⾁,"flesh, meat",にく,niku,,,,
-204,6,⾂,"retainer, minister",しん,shin,,,,
-205,6,⾃,self,みずから,mizukara,,,,
-206,6,⾄,"to arrive, reach",いたる,itaru,,,,
-207,6,,"to arrive, reach",いたるへん,itaruhen,,,へん,hen
-208,6,⾅,"mortar, quern",うす,usu,,,,
-209,6,⾆,tongue,した,shita,,,,
-210,6,⾇,"contrary, to err",まいあし,maiashi,,,,
-211,6,⾈,"ship, boat",ふね,fune,,,,
-212,6,,"ship, boat",ふねへん,funehen,,,へん,hen
-213,6,⾉,boundary,こん,kon,,,,
-214,6,⾊,color,いろ,iro,,,,
-215,6,⾋,"grass, plant",くさ,kusa,,,,
-216,6,⾌,tiger,とらがしら,toragashira,,,かんむり,kanmuri
-217,6,⾍,"worm, insect, bug",むし,mushi,,,,
-218,6,,"worm, insect, bug",むしへん,mushihen,,,へん,hen
-219,6,⾎,blood,ち,chi,,,,
-220,6,⾏,to go,ぎょうがまえ,gyougamae,,,"かまえ, ぎょうがまえ","kamae, gyougamae"
-221,6,⾐,clothing,ころも,koromo,,,,
-222,6,⾑,"cover, west",にし,nishi,,,,
-223,6,⻃,"cover, west",にし,nishi,,,,
-224,6,⽠,melon,うり,uri,,,,
-225,7,⾒,to see,みる,miru,,,,
-226,7,⾓,"horn, corner",つの,tsuno,,,,
-227,7,,"horn, corner",つのへん,tsunohen,,,へん,hen
-228,7,⾔,"words, to speak, say",げん,gen,gen-word,,,
-229,7,,"words, to speak, say",ごんべん,gonben,,,へん,hen
-230,7,⾕,valley,たに,tani,,,,
-231,7,,valley,たにへん,tanihen,,,へん,hen
-232,7,⾖,bean,まめ,mame,,,,
-233,7,,bean,まめへん,mamehen,,,へん,hen
-234,7,⾗,pig,いのこ,inoko,,,,
-235,7,⾘,badger,むじなへん,mujinahen,,,へん,hen
-236,7,⾙,"shell, property, wealth",かい,kai,,,,
-237,7,,"shell, property, wealth",かいへん,kaihen,,,へん,hen
-238,7,⾚,red,あか,aka,,,,
-239,7,⾛,to run,はしる,hashiru,,,,
-240,7,,to run,そうにょう,sounyou,,,にょう,nyou
-241,7,⾜,"foot, leg",あし,ashi,,,,
-242,7,⻊,"foot, leg",あしへん,ashihen,,,へん,hen
-243,7,⾝,body,み,mi,,,,
-244,7,,body,みへん,mihen,,,へん,hen
-245,7,⾞,"vehicle, wheel, car",くるま,kuruma,,,,
-246,7,,"vehicle, wheel, car",くるまへん,kurumahen,,,へん,hen
-247,7,⾟,bitter,からい,karai,,,,
-248,7,⾠,"Fifth zodiac sign, 7–9 A.M.",しんのたつ,shinnotatsu,,,,
-249,7,⾡,"to advance, move ahead",しんにょう,shinnyou,,,,
-250,7,⾢,community,むら,mura,,,,
-251,7,⾣,"sake jar, bird",ひよみのとり,hiyominotori,,torihen,,
-252,7,,"sake jar, bird",とりへん,torihen,,,へん,hen
-253,7,⾤,to separate,のごめ,nogome,,,,
-254,7,,to separate,のごめへん,nogomehen,,,へん,hen
-255,7,⾥,"village, (3.93 km)",さと,sato,,,,
-256,7,,"village, (3.93 km)",さとへん,satohen,,,へん,hen
-257,7,⾂,"retainer, minister",しん,shin,,,,
-258,7,,"contrary, to err",まいあし,maiashi,,,,
-259,7,⻨,wheat,むぎ,mugi,,,,
-260,8,⾦,"metal, gold, mineral",かね,kane,,,,
-261,8,,"metal, gold, mineral",かねへん,kanehen,,,へん,hen
-262,8,⻑,long,ながい,nagai,,,,
-263,8,⾨,"gate, door",もんがまえ,mongamae,,,"かまえ, もんがまえ","kamae, mongamae"
-264,8,⾩,hill,こざと,kozato,,,,
-265,8,⾪,to capture,れいづくり,reizukuri,,,つくり,tsukuri
-266,8,⾫,small bird,ふるとり,furutori,,,,
-267,8,⾬,rain,あめ,ame,,,,
-268,8,⻗,rain,あめかんむり,amekanmuri,,,かんむり,kanmuri
-269,8,⾭,"blue, green",あお,ao,,,,
-270,8,⻘,"blue, green",あお,ao,,,,
-271,8,⾮,"wrong, non-",あらず,arazu,,,,
-272,8,⻟,"food, to eat",しょくへん,shokuhen,,,へん,hen
-273,8,⻫,alike,せい,sei,,,,
-274,9,⾯,"face, surface",めん,men,,,,
-275,9,⾰,leather,つくりがわ,tsukurigawa,,,,
-276,9,,leather,なめしがわ,nameshigawa,,,,
-277,9,⾲,leek,にら,nira,,,,
-278,9,⾳,"sound, noise",おと,oto,,,,
-279,9,⾴,"head, page",おおがい,oogai,,,つくり,tsukuri
-280,9,⾵,wind,かぜ,kaze,,,,
-281,9,⾶,to fly,とぶ,tobu,,,,
-282,9,⾷,"food, to eat",しょく,shoku,,,,
-283,9,⾸,head,くび,kubi,,,,
-284,9,⾹,scent,かおり,kaori,,,,
-285,10,⾺,horse,うま,uma,,,,
-286,10,,horse,うまへん,umahen,,,へん,hen
-287,10,⾻,bone,ほね,hone,,,,
-288,10,,bone,ほねへん,honehen,,,へん,hen
-289,10,⾼,high,たかい,takai,,,,
-290,10,⾽,long hair,かみかんむり,kamikanmuri,,,かんむり,kanmuri
-291,10,⾾,fighting,たたかいがまえ,tatakaigamae,,,かまえ,kamae
-292,10,⾿,herbs,においざけ,nioizake,,,,
-293,10,⿀,tripod,れき,reki,,,,
-294,10,⿁,demon,おに,oni,,,,
-295,10,⾱,leather,なめしがわ,nameshigawa,,,,
-296,11,⿂,fish,うお,uo,,,,
-297,11,,fish,うおへん,uohen,,,へん,hen
-298,11,⿃,bird,とり,tori,,,,
-299,11,⿄,salt,しお,shio,,,,
-300,11,⿅,deer,しか,shika,,,,
-301,11,⿆,wheat,むぎ,mugi,,,,
-302,11,⿇,hemp,あさ,asa,,,,
-303,11,,hemp,あさかんむり,asakanmuri,,,かんむり,kanmuri
-304,11,⻩,yellow,き,ki,ki-yellow,,,
-305,11,黒,black,くろ,kuro,,,,
-306,11,⻲,turtle,かめ,kame,,,,
-307,12,⿈,yellow,き,ki,,,,
-308,12,⿉,millet,きび,kibi,,,,
-309,12,⿊,black,くろ,kuro,,,,
-310,12,⿋,embroider,ぬいとり,nuitori,,,,
-311,12,⻭,tooth,は,ha,,,,
-312,13,⿌,frog,かえる,kaeru,,,,
-313,13,⿍,tripod,かなえ,kanae,,,,
-314,13,⿎,drum,つづみ,tuzumi,,,,
-315,13,⿏,"rat, mouse",ねずみ,nezumi,,,,
-316,14,⿐,nose,はな,hana,,,,
-317,14,⿑,alike,せい,sei,,,,
-318,15,⿒,tooth,は,ha,,,,
-319,16,⿓,dragon,りゅう,ryuu,,,,
-320,16,⿔,turtle,かめ,kame,,,,
-321,17,⿕,flute,やく,yaku,,,,
-322,n/a,々,,,,none,,,
+Stroke#,Radical,Meaning,Reading,Reading-R,Position-J,Position-R,Importance,Origin,Variant-of,Variant-of-Reading
+1,⼀,"one, horizontal stroke",いち,ichi,,,,Kangxi,,
+1,⼁,vertical stroke,たてぼう,tatebou,,,,Kangxi,,
+1,⼂,dot,てん,ten,,,,Kangxi,,
+1,⼃,diagonal sweeping stroke,の,no,,,,Kangxi,,
+1,,diagonal sweeping stroke,のかんむり,nokanmuri,かんむり,kanmuri,,,⼃,の
+1,⼄,the second,おつ,otsu,,,,Kangxi,,
+1,⺃,the second,おつ,otsu,,,,,⼄,おつ
+1,⼅,vertical stroke with a hook,はねぼう,hanebou,,,,Kangxi,,
+2,⼆,two,に,ni,,,,Kangxi,,
+2,⼇,"lid, top",なべぶた,nabebuta,かんむり,kanmuri,Important,Kangxi,,
+2,⼈,person,ひと,hito,,,,Kangxi,,
+2,⺅,person,にんべん,ninben,へん,hen,Important,,⼈,ひと
+2,𠆢,person,ひとやね,hitoyane,かんむり,kanmuri,Important,,⼈,ひと
+2,⼉,human legs,ひとあし,hitoashi,あし,ashi,Important,Kangxi,,
+2,⼊,to enter,いる,iru,,,,Kangxi,,
+2,⼋,eight,はち,hachi,,,,Kangxi,,
+2,,eight,はちがしら,hachigashira,,,,,⼋,はち
+2,⼌,to enclose,けいがまえ,keigamae,"かまえ, けいがまえ","kamae, keigamae",,Kangxi,,
+2,⼍,"cover, crown",わかんむり,wakanmuri,かんむり,kanmuri,Important,Kangxi,,
+2,⼎,ice,にすい,nisui,へん,hen,,Kangxi,,
+2,⼏,table,きにょう,kinyou,つくり,tsukuri,,Kangxi,,
+2,⺇,wind,かぜかんむり,kazekanmuri,かんむり,kanmuri,,,⼏,きにょう
+2,⼐,"container, open box",かんにょう,kannyou,にょう,nyou,,Kangxi,,
+2,⼑,"knife, sword",かたな,katana,,,,Kangxi,,
+2,⺉,"knife, sword",りっとう,rittou,つくり,tsukuri,Important,,⼑,かたな
+2,⼒,power,ちから,chikara,,,,Kangxi,,
+2,⼓,to wrap,つつみがまえ,tsutsumigamae,"かまえ, つつみがまえ","kamae, tsutsumigamae",,Kangxi,,
+2,⼔,spoon,さじ,saji,つくり,tsukuri,,Kangxi,,
+2,⼕,box,はこがまえ,hakogamae,"かまえ, はこがまえ","kamae, hakogamae",,Kangxi,,
+2,⼖,"to conceal, hide",かくしがまえ,kakushigamae,"かまえ, はこがまえ","kamae, hakogamae",,Kangxi,,
+2,⼗,ten,じゅう,juu,,,,Kangxi,,
+2,⼘,oracle,ぼく,boku,,,,Kangxi,,
+2,⼙,"stamp, seal",ふしづくり,fushizukuri,つくり,tsukuri,,Kangxi,,
+2,⼚,cliff,がんだれ,gandare,たれ,tare,Important,Kangxi,,
+2,⼛,"private, Katakana Mu",む,mu,,,,Kangxi,,
+2,⼜,"again, right hand",また,mata,,,,Kangxi,,
+3,⼝,mouth,くち,kuchi,,,,Kangxi,,
+3,,mouth,くちへん,kuchihen,へん,hen,Important,,⼝,くち
+3,⼞,"border, territorial boundaries",くにがまえ,kunigamae,"かまえ, くにがまえ","kamae, kunigamae",Important,Kangxi,,
+3,⼟,earth,つち,tsuchi,,,,Kangxi,,
+3,,earth,つちへん,tsuchihen,へん,hen,Important,,⼟,つち
+3,⼠,"man, scholar, samurai",さむらい,samurai,,,,Kangxi,,
+3,,"man, scholar, samurai",さむらいかんむり,samuraikanmuri,かんむり,kanmuri,,,⼠,さむらい
+3,⼡,to follow,のまた,nomata,,,,Kangxi,,
+3,⼢,to go slowly,なつあし,natsuashi,あし,ashi,,Kangxi,,
+3,⼣,evening,ゆうべ,yuube,,,,Kangxi,,
+3,⼤,"large, big",だい,dai,,,,Kangxi,,
+3,⼥,woman,おんな,onna,,,,Kangxi,,
+3,,woman,おんなへん,onnahen,へん,hen,Important,,⼥,おんな
+3,⼦,"child, son",こ,ko,,,,Kangxi,,
+3,,"child, son",こへん,kohen,へん,hen,Important,,⼦,こ
+3,⼧,"roof, house",うかんむり,ukanmuri,かんむり,kanmuri,Important,Kangxi,,
+3,⼨,"inch, (2.25 cm)",すん,sun,,,,Kangxi,,
+3,,"inch, (2.25 cm)",すんづくり,sunzukuri,つくり,tsukuri,,,⼨,すん
+3,⼩,small,しょう,shou,,,,Kangxi,,
+3,⺌,small,しょうかんむり,shoukanmuri,かんむり,kanmuri,,,⼩,しょう
+3,⺐,lame leg,だいのまげあし,dainomageashi,つくり,tsukuri,,Kangxi,,
+3,⼫,"corpse, awning",しかばね,shikabane,たれ,tare,,Kangxi,,
+3,⼬,sprout,くさのめ,kusanome,,,,Kangxi,,
+3,⼭,mountain,やま,yama,,,,Kangxi,,
+3,,mountain,やまへん,yamahen,へん,hen,,,⼭,やま
+3,,mountain,やまかんむり,yamakanmuri,かんむり,kanmuri,,,⼭,やま
+3,⼮,winding river,まがりがわ,magarigawa,,,,Kangxi,,
+3,川,river,さんぼんがわ,sanbongawa,,,,,⼮,まがりがわ
+3,⼯,"work, carpenter, skill",たくみ,takumi,,,,Kangxi,,
+3,,"work, carpenter, skill",たくみへん,takumihen,へん,hen,,,⼯,たくみ
+3,⼰,self,おのれ,onore,,,,Kangxi,,
+3,⼱,cloth,はば,haba,,,,Kangxi,,
+3,,cloth,はばへん,habahen,へん,hen,,,⼱,はば
+3,⼲,"to dry, shield",かん,kan,,,,Kangxi,,
+3,⺓,"young, slight",いとがしら,itogashira,,,,Kangxi,,
+3,⼴,slanting roof,まだれ,madare,たれ,tare,Important,Kangxi,,
+3,⼵,"to move, stretch",えんにょう,ennyou,にょう,nyou,,Kangxi,,
+3,⼶,folded hands,にじゅうあし,nijuuashi,あし,ashi,,Kangxi,,
+3,⼷,javelin,いぐるみ,igurumi,,,,Kangxi,,
+3,⼸,bow（in archery）,ゆみ,yumi,,,,Kangxi,,
+3,,bow（in archery）,ゆみへん,yumihen,へん,hen,,,⼸,ゆみ
+3,⼹,pig’s head,けいがしら,keigashira,,,,Kangxi,,
+3,⺕,pig’s head,けいがしら,keigashira,,,,,⼹,けいがしら
+3,⺔,pig’s head,けいがしら,keigashira,,,,,⼹,けいがしら
+3,⼺,"hair-style, light rays",さんづくり,sanzukuri,つくり,tsukuri,,Kangxi,,
+3,⼻,"step, stride, street, to go",ぎょうにんべん,gyouninben,へん,hen,Important,Kangxi,,
+3,⺾,grass,くさかんむり,kusakanmuri,かんむり,kanmuri,Important,,⾋,くさ
+3,⻌,"road, walk, to advance",しんにょう,shinnyou,にょう,nyou,Important,,⾡,しんにょう
+3,⻏,"village, country, city",おおざと,oozato,つくり,tsukuri,Important,,⾢,むら
+3,⻖,"hill, mound",こざとへん,kozatohen,へん,hen,Important,,⾩,こざと
+3,⺍,Katakana Tsu,つ,tsu,かんむり,kanmuri,,,,
+3,⺖,"heart, mind, spirit",りっしんべん,risshinben,へん,hen,Important,,⼼,こころ
+3,⺘,hand,てへん,tehen,へん,hen,Important,,⼿,て
+3,⺡,water,さんずい,sanzui,へん,hen,Important,,⽔,みず
+3,⺨,beast,けものへん,kemonohen,へん,hen,Important,,⽝,いぬ
+4,⼼,"heart, mind, spirit",こころ,kokoro,,,,Kangxi,,
+4,⺗,"heart, mind, spirit",したごころ,shitagokoro,あし,ashi,,,⼼,こころ
+4,⼽,"spear, weapon",ほこ,hoko,,,,Kangxi,,
+4,⼾,door,と,to,,,,Kangxi,,
+4,,door,とだれ,todare,たれ,tare,,,⼾,と
+4,⼿,hand,て,te,,,,Kangxi,,
+4,⽀,branch,しにょう,shinyou,,,,Kangxi,,
+4,⽁,"activity, to strike, hit",ぼくづくり,bokuzukuri,つくり,tsukuri,,Kangxi,,
+4,⺙,"activity, to strike, hit",ぼくづくり,bokuzukuri,つくり,tsukuri,Important,,⽁,ぼくづくり
+4,⽂,"literature, letters",ぶん,bun,,,,Kangxi,,
+4,⽃,"big dipper, ladle, 18 liters",ますづくり,masuzukuri,つくり,tsukuri,,Kangxi,,
+4,⽄,axe,おのづくり,onozukuri,つくり,tsukuri,,Kangxi,,
+4,⽅,"direction, flag",ほう,hou,,,,Kangxi,,
+4,,"direction, flag",ほうへん,houhen,へん,hen,,,⽅,ほう
+4,⽆,not,むにょう,munyou,,,,Kangxi,,
+4,⽇,"sun, day, time",ひ,hi,,,,Kangxi,,
+4,,"sun, day, time",ひへん,hihen,へん,hen,Important,,⽇,ひ
+4,⽈,to say,ひらび,hirabi,,,,Kangxi,,
+4,⽉,"moon, month, period",つき,tsuki,,,,Kangxi,,
+4,⺝,"moon, month, period",つきへん,tsukihen,へん,hen,,,⽉,つき
+4,,"meat, flesh",にくづき,nikuzuki,,,Important,,⾁,にく
+4,⽊,"tree, wood",き,ki,,,,Kangxi,,
+4,,"tree, wood",きへん,kihen,へん,hen,Important,,⽊,き
+4,⽋,"to lack, yawn",あくび,akubi,,,,Kangxi,,
+4,⽌,to stop,とめる,tomeru,,,,Kangxi,,
+4,⽍,"death & dying, to decompose",がつ,gatsu,,,,Kangxi,,
+4,,"death & dying, to decompose",がつへん,gatsuhen,へん,hen,,,⽍,がつ
+4,⽎,"lance shaft, action",るまた,rumata,つくり,tsukuri,,Kangxi,,
+4,⽏,"not, mother",なかれ,nakare,,,,Kangxi,,
+4,⽐,to compare,くらべる,kuraberu,,,,Kangxi,,
+4,⽑,hair,け,ke,,,,Kangxi,,
+4,⽒,"family, clan",うじ,uji,,,,Kangxi,,
+4,⽓,"steam, air",きがまえ,kigamae,"かまえ, きがまえ","kamae, kigamae",,Kangxi,,
+4,⽔,water,みず,mizu,,,,Kangxi,,
+4,⽕,fire,ひ,hi,,,,Kangxi,,
+4,,fire,ひへん,hihen,へん,hen,Important,,⽕,ひ
+4,⺣,fire,れっか,rekka,あし,ashi,Important,,⽕,ひ
+4,⽖,"claw, nail",つめ,tsume,,,,Kangxi,,
+4,⺤,"claw, nail",つめかんむり,tsumekanmuri,かんむり,kanmuri,,,⽖,つめ
+4,爫,"claw, nail",つめかんむり,tsumekanmuri,かんむり,kanmuri,,,⽖,つめ
+4,⽗,father,ちち,chichi,,,,Kangxi,,
+4,⽘,to mix,こう,kou,,,,Kangxi,,
+4,⽙,split wood,しょうへん,shouhen,へん,hen,,Kangxi,,
+4,⽚,split wood,かた,kata,,,,Kangxi,,
+4,,split wood,かたへん,katahen,へん,hen,,,⽚,かた
+4,,"fang, canine tooth",きば,kiba,,,,Kangxi,,
+4,⽜,cow,うし,ushi,,,,Kangxi,,
+4,,cow,うしへん,ushihen,へん,hen,,,⽜,うし
+4,⽝,dog,いぬ,inu,,,,Kangxi,,
+4,,"jewelry, jeweled king",おうへん,ouhen,へん,hen,Important,,⽟,たま
+4,⺭,"altar, festival, religious service",しめすへん,shimesuhen,へん,hen,Important,,⽰,しめす
+4,㓁,net,あみがしら,amigashira,,,,,⽹,あみ
+4,⺹,"old, old-age",おいかんむり,oikanmuri,かんむり,kanmuri,,,⽼,おいかんむり
+5,⽞,darkness,げん,gen,,,,Kangxi,,
+5,⽟,jewelry,たま,tama,,,,Kangxi,,
+5,,melon,うり,uri,,,,Kangxi,,
+5,⽡,tile,かわら,kawara,,,,Kangxi,,
+5,⽢,sweet,あまい,amai,,,,Kangxi,,
+5,⽣,"birth, to be born, live",うまれる,umareru,,,,Kangxi,,
+5,⽤,to use,もちいる,mochiiru,,,,Kangxi,,
+5,⽥,rice paddy,た,ta,,,,Kangxi,,
+5,,rice paddy,たへん,tahen,へん,hen,,,⽥,た
+5,⽦,bolt of cloth,ひき,hiki,,,,Kangxi,,
+5,⺪,bolt of cloth,ひきへん,hikihen,へん,hen,,,⽦,ひき
+5,⽧,sickness,やまいだれ,yamaidare,たれ,tare,Important,Kangxi,,
+5,⽨,"outspread legs, departure",はつがしら,hatsugashira,かんむり,kanmuri,,Kangxi,,
+5,⽩,white,しろ,shiro,,,,Kangxi,,
+5,,white,はくへん,hakuhen,へん,hen,,,⽩,しろ
+5,⽪,"skin, hide",けがわ,kegawa,,,,Kangxi,,
+5,⽫,"plate, bowl",さら,sara,,,,Kangxi,,
+5,⽬,eye,め,me,,,,Kangxi,,
+5,,eye,めへん,mehen,へん,hen,Important,,⽬,め
+5,,eye,よこめ,yokome,かんむり,kanmuri,,,⽬,め
+5,⽭,halberd,ほこ,hoko,,,,Kangxi,,
+5,,halberd,ほこへん,hokohen,へん,hen,,,⽭,ほこ
+5,⽮,arrow,や,ya,,,,Kangxi,,
+5,,arrow,やへん,yahen,へん,hen,,,⽮,や
+5,⽯,stone,いし,ishi,,,,Kangxi,,
+5,,stone,いしへん,ishihen,へん,hen,,,⽯,いし
+5,⽰,"altar, festival, religious service",しめす,shimesu,,,,Kangxi,,
+5,⽱,footprint,じゅうのあし,juunoashi,,,,Kangxi,,
+5,⽲,grain,のぎへん,nogihen,へん,hen,Important,Kangxi,,
+5,⽳,"hole, cave",あな,ana,,,,Kangxi,,
+5,,"hole, cave",あなかんむり,anakanmuri,かんむり,kanmuri,Important,,⽳,あな
+5,⽴,to stand,たつ,tatsu,,,,Kangxi,,
+5,,to stand,たつへん,tatsuhen,へん,hen,,,⽴,たつ
+5,,"fang, canine tooth",きば,kiba,,,,,,きば
+5,,"fang, canine tooth",きばへん,kibahen,へん,hen,,,⽛,きば
+5,氺,water,したみず,shitamizu,,,,,⽔,みず
+5,⺫,net,あみがしら,amigashira,かんむり,kanmuri,,,⽹,あみ
+5,𦉰,net,あみがしら,amigashira,,,,,⽹,あみ
+5,⻂,clothing,ころもへん,koromohen,へん,hen,Important,,⾐,ころも
+5,⺛,not,むにょう,munyou,,,,,⽆,むにょう
+6,⽵,bamboo,たけ,take,,,,Kangxi,,
+6,⺮,bamboo,たけかんむり,takekanmuri,かんむり,kanmuri,Important,,⽵,たけ
+6,⽶,rice,こめ,kome,,,,Kangxi,,
+6,,rice,こめへん,komehen,へん,hen,Important,,⽶,こめ
+6,⽷,thread,いと,ito,,,,Kangxi,,
+6,,thread,いとへん,itohen,へん,hen,Important,,⽷,いと
+6,⽸,earthen jar,みずがめ,mizugame,,,,Kangxi,,
+6,⽹,net,あみめ,amime,,,,Kangxi,,
+6,⽺,sheep,ひつじ,hitsuji,,,,Kangxi,,
+6,⺷,sheep,ひつじ,hitsuji,,,,,⽺,ひつじ
+6,羽,"feather, wing",はね,hane,,,,Kangxi,,
+6,⽻,"feather, wing",はね,hane,,,,,羽,はね
+6,⽼,"old, old-age",おいかんむり,oikanmuri,,,,Kangxi,,
+6,⽽,and also,しこうして,shikoushite,,,,Kangxi,,
+6,⽾,plow,らいすき,raisuki,へん,hen,,Kangxi,,
+6,⽿,ear,みみ,mimi,,,,Kangxi,,
+6,,ear,みみへん,mimihen,へん,hen,,,⽿,みみ
+6,⾀,writing brush,ふでづくり,fudezukuri,,,,Kangxi,,
+6,⾁,"flesh, meat",にく,niku,,,,Kangxi,,
+6,⾂,"retainer, minister",しん,shin,,,,Kangxi,,
+6,⾃,self,みずから,mizukara,,,,Kangxi,,
+6,⾄,"to arrive, reach",いたる,itaru,,,,Kangxi,,
+6,,"to arrive, reach",いたるへん,itaruhen,へん,hen,,,⾄,いたる
+6,⾅,"mortar, quern",うす,usu,,,,Kangxi,,
+6,⾆,tongue,した,shita,,,,Kangxi,,
+6,⾇,"contrary, to err",まいあし,maiashi,,,,Kangxi,,
+6,⾈,"ship, boat",ふね,fune,,,,Kangxi,,
+6,,"ship, boat",ふねへん,funehen,へん,hen,,,⾈,ふね
+6,⾉,boundary,こん,kon,,,,Kangxi,,
+6,⾊,color,いろ,iro,,,,Kangxi,,
+6,⾋,"grass, plant",くさ,kusa,,,,Kangxi,,
+6,⾌,tiger,とらがしら,toragashira,かんむり,kanmuri,,Kangxi,,
+6,⾍,"worm, insect, bug",むし,mushi,,,,Kangxi,,
+6,,"worm, insect, bug",むしへん,mushihen,へん,hen,Important,,⾍,むし
+6,⾎,blood,ち,chi,,,,Kangxi,,
+6,⾏,to go,ぎょうがまえ,gyougamae,"かまえ, ぎょうがまえ","kamae, gyougamae",Important,Kangxi,,
+6,⾐,clothing,ころも,koromo,,,,Kangxi,,
+6,⾑,"cover, west",にし,nishi,,,,Kangxi,,
+6,⻃,"cover, west",にし,nishi,,,,,⾑,にし
+6,⽠,melon,うり,uri,,,,,⽠,うり
+7,⾒,to see,みる,miru,,,,Kangxi,,
+7,⾓,"horn, corner",つの,tsuno,,,,Kangxi,,
+7,,"horn, corner",つのへん,tsunohen,へん,hen,,,⾓,つの
+7,⾔,"words, to speak, say",げん,gen,,,,Kangxi,,
+7,,"words, to speak, say",ごんべん,gonben,へん,hen,Important,,⾔,げん
+7,⾕,valley,たに,tani,,,,Kangxi,,
+7,,valley,たにへん,tanihen,へん,hen,,,⾕,たに
+7,⾖,bean,まめ,mame,,,,Kangxi,,
+7,,bean,まめへん,mamehen,へん,hen,,,⾖,まめ
+7,⾗,pig,いのこ,inoko,,,,Kangxi,,
+7,⾘,badger,むじなへん,mujinahen,へん,hen,,Kangxi,,
+7,⾙,"shell, property, wealth",かい,kai,,,,Kangxi,,
+7,,"shell, property, wealth",かいへん,kaihen,へん,hen,Important,,⾙,かい
+7,⾚,red,あか,aka,,,,Kangxi,,
+7,⾛,to run,はしる,hashiru,,,,Kangxi,,
+7,,to run,そうにょう,sounyou,にょう,nyou,Important,,⾛,はしる
+7,⾜,"foot, leg",あし,ashi,,,,Kangxi,,
+7,⻊,"foot, leg",あしへん,ashihen,へん,hen,Important,,⾜,あし
+7,⾝,body,み,mi,,,,Kangxi,,
+7,,body,みへん,mihen,へん,hen,,,⾝,み
+7,⾞,"vehicle, wheel, car",くるま,kuruma,,,,Kangxi,,
+7,,"vehicle, wheel, car",くるまへん,kurumahen,へん,hen,Important,,⾞,くるま
+7,⾟,bitter,からい,karai,,,,Kangxi,,
+7,⾠,"Fifth zodiac sign, 7–9 A.M.",しんのたつ,shinnotatsu,,,,Kangxi,,
+7,⾡,"to advance, move ahead",しんにょう,shinnyou,,,,Kangxi,,
+7,⾢,community,むら,mura,,,,Kangxi,,
+7,⾣,"sake jar, bird",ひよみのとり,hiyominotori,,,,Kangxi,,
+7,,"sake jar, bird",とりへん,torihen,へん,hen,,,⾣,ひよみのとり
+7,⾤,to separate,のごめ,nogome,,,,Kangxi,,
+7,,to separate,のごめへん,nogomehen,へん,hen,,,⾤,のごめ
+7,⾥,"village, (3.93 km)",さと,sato,,,,Kangxi,,
+7,,"village, (3.93 km)",さとへん,satohen,へん,hen,,,⾥,さと
+7,⾂,"retainer, minister",しん,shin,,,,,⾂,しん
+7,,"contrary, to err",まいあし,maiashi,,,,,⾇,まいあし
+7,⻨,wheat,むぎ,mugi,,,,,⿆,むぎ
+8,⾦,"metal, gold, mineral",かね,kane,,,,Kangxi,,
+8,,"metal, gold, mineral",かねへん,kanehen,へん,hen,Important,,⾦,かね
+8,⻑,long,ながい,nagai,,,,Kangxi,,
+8,⾨,"gate, door",もんがまえ,mongamae,"かまえ, もんがまえ","kamae, mongamae",Important,Kangxi,,
+8,⾩,hill,こざと,kozato,,,,Kangxi,,
+8,⾪,to capture,れいづくり,reizukuri,つくり,tsukuri,,Kangxi,,
+8,⾫,small bird,ふるとり,furutori,,,,Kangxi,,
+8,⾬,rain,あめ,ame,,,,Kangxi,,
+8,⻗,rain,あめかんむり,amekanmuri,かんむり,kanmuri,Important,,⾬,あめ
+8,⾭,"blue, green",あお,ao,,,,Kangxi,,
+8,⻘,"blue, green",あお,ao,,,,,⾭,あお
+8,⾮,"wrong, non-",あらず,arazu,,,,Kangxi,,
+8,⻟,"food, to eat",しょくへん,shokuhen,へん,hen,,,⾷,しょく
+8,⻫,alike,せい,sei,,,,,⿑,せい
+9,⾯,"face, surface",めん,men,,,,Kangxi,,
+9,⾰,leather,つくりがわ,tsukurigawa,,,,Kangxi,,
+9,,leather,なめしがわ,nameshigawa,,,,Kangxi,,
+9,⾲,leek,にら,nira,,,,Kangxi,,
+9,⾳,"sound, noise",おと,oto,,,,Kangxi,,
+9,⾴,"head, page",おおがい,oogai,つくり,tsukuri,Important,Kangxi,,
+9,⾵,wind,かぜ,kaze,,,,Kangxi,,
+9,⾶,to fly,とぶ,tobu,,,,Kangxi,,
+9,⾷,"food, to eat",しょく,shoku,,,,Kangxi,,
+9,⾸,head,くび,kubi,,,,Kangxi,,
+9,⾹,scent,かおり,kaori,,,,Kangxi,,
+10,⾺,horse,うま,uma,,,,Kangxi,,
+10,,horse,うまへん,umahen,へん,hen,,,⾺,うま
+10,⾻,bone,ほね,hone,,,,Kangxi,,
+10,,bone,ほねへん,honehen,へん,hen,,,⾻,ほね
+10,⾼,high,たかい,takai,,,,Kangxi,,
+10,⾽,long hair,かみかんむり,kamikanmuri,かんむり,kanmuri,,Kangxi,,
+10,⾾,fighting,たたかいがまえ,tatakaigamae,かまえ,kamae,,Kangxi,,
+10,⾿,herbs,においざけ,nioizake,,,,Kangxi,,
+10,⿀,tripod,れき,reki,,,,Kangxi,,
+10,⿁,demon,おに,oni,,,,Kangxi,,
+10,⾱,leather,なめしがわ,nameshigawa,,,,,,なめしがわ
+11,⿂,fish,うお,uo,,,,Kangxi,,
+11,,fish,うおへん,uohen,へん,hen,Important,,⿂,うお
+11,⿃,bird,とり,tori,,,,Kangxi,,
+11,⿄,salt,しお,shio,,,,Kangxi,,
+11,⿅,deer,しか,shika,,,,Kangxi,,
+11,⿆,wheat,むぎ,mugi,,,,Kangxi,,
+11,⿇,hemp,あさ,asa,,,,Kangxi,,
+11,,hemp,あさかんむり,asakanmuri,かんむり,kanmuri,,,⿇,あさ
+11,⻩,yellow,き,ki,,,,,⿈,き
+11,黒,black,くろ,kuro,,,,,⿊,くろ
+11,⻲,turtle,かめ,kame,,,,,⿔,かめ
+12,⿈,yellow,き,ki,,,,Kangxi,,
+12,⿉,millet,きび,kibi,,,,Kangxi,,
+12,⿊,black,くろ,kuro,,,,Kangxi,,
+12,⿋,embroider,ぬいとり,nuitori,,,,Kangxi,,
+12,⻭,tooth,は,ha,,,,,⿒,は
+13,⿌,frog,かえる,kaeru,,,,Kangxi,,
+13,⿍,tripod,かなえ,kanae,,,,Kangxi,,
+13,⿎,drum,つづみ,tuzumi,,,,Kangxi,,
+13,⿏,"rat, mouse",ねずみ,nezumi,,,,Kangxi,,
+14,⿐,nose,はな,hana,,,,Kangxi,,
+14,⿑,alike,せい,sei,,,,Kangxi,,
+15,⿒,tooth,は,ha,,,,Kangxi,,
+16,⿓,dragon,りゅう,ryuu,,,,Kangxi,,
+16,⿔,turtle,かめ,kame,,,,Kangxi,,
+17,⿕,flute,やく,yaku,,,,Kangxi,,
