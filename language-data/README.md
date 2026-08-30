@@ -43,7 +43,8 @@ The one wrinkle is where two different radicals with media files share a reading
 #### August 2026
 
 The following corrections were made to both spreadsheets (in their .csv and .xlsx versions) and, where applicable, to the database used by the *Kanji alive* web application.
-**ka_data**
+
+_**ka_data:**_
 
 | Change                                                                                                                                                      | Rows |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -57,26 +58,21 @@ The following corrections were made to both spreadsheets (in their .csv and .xls
 | 法, 合, 以, 三: readings with a doubled consonant now written with small っ/ッ — 法 ハッ、ホッ ("hat, hot"), 合 カッ、ガッ ("kat, gat"), 以 adds もっ ("mot"), 三 adds みっ ("mit") | 4    |
 | Stray space before a comma removed from an example meaning for each of 吸, 迷, 囲, 乾, 鳴, 辛 and 幹 (e.g. "cigarette end , tobacco ashes")                        | 7    |
 
-**japanese-radicals**
+_**japanese-radicals:**_
 
 The *japanese-radicals* files (.csv, .xlsx and .pdf) were rebuilt from the [214 traditional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) table on our website:
 
 - The files now cover all 214 traditional radicals and their variants (321 rows), not only the radicals of the 1235 kanji supported by the web application.
 - New columns: *Importance* (marks the most important radicals to learn), *Origin* (identifies the base Kangxi radicals), and *Variant-of* / *Variant-of-Reading* (link each variant form to its base radical).
 - Removed columns: *Radical ID#*, *R-Filename* and *Anim-Filename*; *Reading-J* is now named *Reading*.
+- Trailing non-breaking space removed from the Radical character 𦉰 (amiguchi)
 - The repetition symbol 々, not one of the 214 traditional radicals, is no longer listed.
-
-Earlier in August, before the rebuild:
-
-| Change                                                                       | Rows |
-| ---------------------------------------------------------------------------- | ---- |
-| Trailing non-breaking space removed from the Radical character 𦉰 (amiguchi) | 1    |
 
 #### July 2026
 
 The following corrections were made to both spreadsheets (in their .csv and .xlsx versions alike), bringing them back into agreement with the language data used by the *Kanji alive* web application.
 
-**ka_data**
+_**ka_data:**_
 
 | Change                                                                                                                                       | Rows |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
@@ -86,7 +82,7 @@ The following corrections were made to both spreadsheets (in their .csv and .xls
 | 々: placeholder "n/a" values removed from the kunyomi and radical name/meaning fields (now blank); radical strokes normalised to "n/a"        | 1    |
 | Trailing whitespace removed from radical meanings ("person", "the second"), the radical character ⼌ and three example words (for 一, 九 and 簡) | 72   |
 
-**japanese-radicals**
+_**japanese-radicals:**_
 
 | Change                                                                                                                   | Rows |
 | ------------------------------------------------------------------------------------------------------------------------ | ---- |
