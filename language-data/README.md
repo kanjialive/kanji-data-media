@@ -38,6 +38,17 @@ The one wrinkle is where two different radicals with media files share a reading
 | ⾔ (words) | gen | gen-word (plain "gen" is ⽞, darkness) |
 | ⻩ (yellow) | ki | ki-yellow (plain "ki" is ⽊, tree) |
 
+### Japanese Radicals IDs (*japanese-radicals-ids.csv*)
+
+A machine-readable companion to *japanese-radicals.csv* for anyone using it as a dataset rather than a reference to read or print. It has the same rows in the same order, adding what the main file leaves out:
+
+- *ID* — a stable integer key for each row (the main file identifies rows only by radical character and reading).
+- *Kangxi#* — the traditional 1–214 radical number, on base radicals.
+- *Codepoint* — the radical character's Unicode codepoint (U+2Fxx for the Kangxi block, U+E7xx for our PUA-encoded characters), for exact matching without Unicode-normalization surprises.
+- *Variant-of-ID* — the *Variant-of* link expressed as an ID reference instead of a character + reading pair.
+
+It is generated from *japanese-radicals.csv* and carries no data of its own beyond the IDs; the main file remains the source of truth.
+
 ### Recent Changes
 
 #### August 2026
@@ -67,6 +78,7 @@ The *japanese-radicals* files (.csv, .xlsx and .pdf) were rebuilt from the [214 
 - Removed columns: *Radical ID#*, *R-Filename* and *Anim-Filename*; *Reading-J* is now named *Reading*.
 - Trailing non-breaking space removed from the Radical character 𦉰 (amiguchi)
 - The repetition symbol 々, not one of the 214 traditional radicals, is no longer listed.
+- New companion file *japanese-radicals-ids.csv*: stable row IDs, Kangxi numbers, Unicode codepoints, and *Variant-of* as an ID reference (see above).
 
 #### July 2026
 
