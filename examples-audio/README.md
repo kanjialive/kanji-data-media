@@ -4,7 +4,7 @@ In order to make use of the example audio files (i.e. up to twelve example words
 
 In the case of the audio files in this directory, the filenames were additionally marked (in alphabetical order) with the suffix 'a' to 'l' to match them to their respective readings. 
 
-You can match a kanji to its unique, romanized prefix by consulting the _ka_data.xlsx_ (or _ka_data.csv_) spreadsheet in the [language-data](https://github.com/kintopp/Kanji-alive/tree/master/language-data) directory.
+You can match a kanji to its unique, romanized prefix by consulting the _ka_data.xlsx_ (or _ka_data.csv_) spreadsheet in the [language-data](https://github.com/kanjialive/kanji-data-media/tree/master/language-data) directory.
 
 **Example:**
 
@@ -22,7 +22,7 @@ You are interested in the audio files for the kanji 述. Look-up 述 in _ka_data
 - 述べる (のべる)
 
 
-In column A of the same spreadsheet you'll find the unique, romanized prefix for this kanji, "jutsu-no(beru)". Now you can identify the ten audio files matching the example words shown above:
+In column B of the same spreadsheet you'll find the unique, romanized prefix for this kanji, "jutsu-no(beru)". Now you can identify the ten audio files matching the example words shown above:
 
 - jutsu-no(beru)_06_a.aac
 - jutsu-no(beru)_06_b.aac
@@ -34,6 +34,8 @@ In column A of the same spreadsheet you'll find the unique, romanized prefix for
 - jutsu-no(beru)_06_h.aac
 - jutsu-no(beru)_06_i.aac
 - jutsu-no(beru)_06_j.aac
+
+The `_06_` segment is the same in every filename. The extension depends on the format: .opus, .aac, .ogg or .mp3.
 
 **Accessing the audio files:**
 

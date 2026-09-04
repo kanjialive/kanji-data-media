@@ -4,18 +4,18 @@ The *Kanji alive* language data files are offered in UTF-8 encoded, .csv (comma-
 
 ### Kanji alive data (*ka_data.csv* and *.xlsx*)
 
-This contains all of the language data used by the *Kanji alive* web application (http://app.kanjialive.com) with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kondansha dictionary indices for each kanji seen in the app's "detail" view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in the "search & results" view.
+This contains all of the language data used by the *Kanji alive* web application (https://app.kanjialive.com) with the following exceptions: For copyright reasons, it does not include data on the mnemonic hints and the (Classic) Nelson and Kodansha dictionary indices for each kanji seen in the app's "detail" view or data on the division of kanji into chapters/lessons for [textbooks supported](http://kanjialive.com/supported-textbooks/) in the "search & results" view.
 
 Some kanji have no kunyomi or onyomi reading at all (e.g. 法 has no kunyomi).
 These are recorded with an empty kana cell and the value "n/a" in the matching romaji cell.
 
-Note that in order to make use in particular of the [kanji animation](https://github.com/kintopp/Kanji-alive/tree/master/kanji-animations) and [example audio](https://github.com/kintopp/Kanji-alive/tree/master/examples-audio) media, you will need to match the kanji character you are looking for (e.g. 述) with the unique, romanized name we assigned to it when we created its filename, e.g. jutsu-no(beru).
+Note that in order to make use in particular of the [kanji animation](https://github.com/kanjialive/kanji-data-media/tree/master/kanji-animations) and [example audio](https://github.com/kanjialive/kanji-data-media/tree/master/examples-audio) media, you will need to match the kanji character you are looking for (e.g. 述) with the unique, romanized name we assigned to it when we created its filename, e.g. jutsu-no(beru).
 In the case of the example audio files, the filenames were additionally marked (in alphabetical order) with the letters 'a' to 'l' to match them to their respective readings.
-For example, there are 10 audio files starting with "jutsu-no(beru)" and ending with [a-j].aac.
+For example, there are 10 audio files starting with "jutsu-no(beru)" and ending with [a-j] plus the format's extension (.opus, .aac, .ogg or .mp3).
 These are the audio files for the 10 readings (in the same order) for this kanji.
 
 Please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings.
-To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font.
+To view these characters correctly, you will first have to install our custom [Japanese Radicals](https://github.com/kanjialive/kanji-data-media/tree/master/radicals-font) font.
 
 ### Japanese Radicals data (*japanese_radicals.csv* , *.xlsx* and .pdf)
 
@@ -24,7 +24,7 @@ Second, it includes columns indicating whether a radical is a variant of a base 
 This information can be viewed in use on the [214 traditional kanji radicals](http://kanjialive.com/214-traditional-kanji-radicals/) page on our website.
 
 As with *ka-data*, please note also that some of the radical characters in the spreadsheet are not defined in Unicode and had to be assigned PUA (private use area) encodings.
-To view these characters correctly you will first have to install our custom [Japanese Radicals](https://github.com/kintopp/Kanji-alive/tree/master/radicals-font) font.
+To view these characters correctly you will first have to install our custom [Japanese Radicals](https://github.com/kanjialive/kanji-data-media/tree/master/radicals-font) font.
 The PDF version bundles this font and can be used 'as is'.
 
 To match a radical with its media files in [radical-characters](https://github.com/kanjialive/kanji-data-media/tree/master/radical-characters) and [radical-animations](https://github.com/kanjialive/kanji-data-media/tree/master/radical-animations), use its *Reading-R* value as the base of the filename.
@@ -123,4 +123,4 @@ ed.
 (1974), Tuttle Publishing.
 For the Japanese names for the radicals,『講談社カラー版日本語大辞典』（第一版）1989, 講談社.
 
-All of the language data in *Kanji alive* was reviewed and revised by [Harumi Hibino Lory](http://ealc.uchicago.edu/faculty/lecturers).
+All of the language data in *Kanji alive* was reviewed and revised by Harumi Hibino Lory, now emerita at the University of Chicago.
