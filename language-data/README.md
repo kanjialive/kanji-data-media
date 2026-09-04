@@ -51,6 +51,13 @@ It is generated from *japanese-radicals.csv* and carries no data of its own beyo
 
 ### Recent Changes
 
+#### September 2026
+
+Media and timing files brought into step with the *Kanji alive* web application:
+
+- 状: the stroke-order animation (in *animations-mp4.zip*) and the images of strokes 1–3 (in *kanji_strokes.zip*) now show the corrected stroke order, as on the website since 2020.
+- Stroke timings (*kanji-animations/stroke_timings*): 17 files replaced with the values used by the web application. 状 gains the timings for its corrected first strokes; 話 was empty; the rest carried unnormalised or outdated values.
+
 #### August 2026
 
 The following corrections were made to both spreadsheets (in their .csv and .xlsx versions) and, where applicable, to the database used by the *Kanji alive* web application.
